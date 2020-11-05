@@ -286,7 +286,7 @@
             </div>
             <div class="col px-2 pb-3">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/5-7.JPG" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/5-7.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Ages 5-7</strong></p>
                         <hr>
