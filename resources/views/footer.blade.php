@@ -92,7 +92,7 @@
                         </li>
                         <li class="nav-item">
                             <ion-icon name="mail"></ion-icon>
-                            ???@gmail.com
+                            eastcountypac@gmail.com
                         </li>
                     </ul>
                 </div>

@@ -5,11 +5,11 @@
     <a class="nav-link"><ion-icon name="call-outline"></ion-icon> 925-240-5556</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link"><ion-icon name="mail-outline"></ion-icon> ???@gmail.com</a>
+    <a class="nav-link"><ion-icon name="mail-outline"></ion-icon> eastcountypac@gmail.com</a>
 </li>
-<li class="nav-item">
-    <a class="nav-link" href="http://www.brentwoodballet.org" target="_blank" style="font-family: 'Italianno', cursive; font-size: 1.3em;">The Ballet Company</a>
-</li>
+{{--<li class="nav-item">--}}
+{{--    <a class="nav-link" href="http://www.brentwoodballet.org" target="_blank" style="font-family: 'Italianno', cursive; font-size: 1.3em;">The Ballet Company</a>--}}
+{{--</li>--}}
 <div class="row ml-1">
     <li class="nav-item">
         <a class="nav-link" href="https://www.facebook.com/eastcountypac" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>

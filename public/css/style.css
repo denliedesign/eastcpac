@@ -89,7 +89,7 @@
     width: 100%;
     background: url("/images/dancers-in-tutus.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: 50% 30%;
     background-attachment: scroll;
     position: relative;
 }
@@ -162,11 +162,13 @@
     color: white !important;
     padding-left: 30px !important;
     padding-right: 30px !important;
+    background: rgba(6, 40, 69, 1) !important;
 }
 
 .btn-outline-primary:hover {
-    border: 3px solid #d3215d !important;
-    background: #d3215d !important;
+    border: 3px solid #062845 !important;
+    background: rgba(6, 40, 69, 1) !important;
+    transition: all 0.7s ease;
 }
 
 /*#colored-boxes div {*/

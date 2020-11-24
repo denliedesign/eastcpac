@@ -8,7 +8,10 @@
                 <h2 class="text-uppercase text-center">Take the First Step</h2>
                 <h1 class="text-uppercase text-center">To Dance With Us</h1>
                 <div class="d-flex justify-content-center mt-4">
-                    <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
+                    <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>
+                </div>
+                <div class="d-flex justify-content-center mt-4">
+                    <a href="" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
                 </div>
             </div>
         </div>
@@ -150,13 +153,13 @@
                     <div class="flip-card-inner">
                         <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">
                             <div>
-                                <ion-icon name="play-circle-outline"></ion-icon>
-                                <p>Pre-Recorded Classes</p>
+                                <ion-icon name="person-circle-outline"></ion-icon>
+                                <p>Private Lessons & Social Bubble Classes</p>
                             </div>
                         </div>
                         <div class="box-three flip-card-back d-flex align-items-center justify-content-center text-center">
                             <p>
-                                Not ready to dance in-studio yet? You can purchase a pre-recorded class to watch as many times as you like.
+                                We offer socially distanced private lessons or semi-private lessons with your social bubble.
                             </p>
                         </div>
                     </div>
@@ -190,7 +193,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <h1 class="text-uppercase">studio&trade;</h1>
-                            <p class="font-weight-bold">ECPAC is Youth Protection Advocates in Dance&reg; Certified!</p>
+                            <p class="font-weight-bold">ECPAC is working on Youth Protection Advocates in Dance&reg; Certification!</p>
                             <p>
                                 <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
                                 <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
@@ -219,7 +222,7 @@
         <div class="d-flex justify-content-center pb-2">
             <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
         </div>
-        <p class="font-weight-bold">ECPAC is Youth Protection Advocates in Dance&reg; Certified!</p>
+        <p class="font-weight-bold">ECPAC is working on Youth Protection Advocates in Dance&reg; Certification!</p>
         <p>
             <ion-icon name="checkmark"></ion-icon>
             Background checked and CPR certified teachers
@@ -251,7 +254,7 @@
     </div>
 
     <div class="container">
-        <h2 class="my-5 font-weight-bold text-uppercase">Fall Classes</h2>
+        <h2 class="my-5 font-weight-bold text-uppercase">Dance, Acro, and Theater Classes For All Ages</h2>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mb-5">
             <div class="col px-2 pb-3">
                 <div class="class-card-wrap border border-muted">
@@ -313,53 +316,53 @@
                     </div>
                 </div>
             </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/musical-theatre.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Musical Theatre</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Mon 4:00-9:00</p>--}}
-                        <hr>
-                        <div class="text-center">
-                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/tumbling.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Tumbling</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
-                        <hr>
-                        <div class="text-center">
-                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/distance-learning-lab.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Distance Learning Lab</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
-                        <hr>
-                        <div class="text-center">
-                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col px-2 pb-3">--}}
+{{--                <div class="class-card-wrap border border-muted">--}}
+{{--                    <img src="/images/musical-theatre.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">--}}
+{{--                    <div class="class-card-content my-3">--}}
+{{--                        <p class="m-0 text-center"><strong>Musical Theatre</strong></p>--}}
+{{--                        --}}{{--                        <p class="m-0 text-center text-muted">Mon 4:00-9:00</p>--}}
+{{--                        <hr>--}}
+{{--                        <div class="text-center">--}}
+{{--                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
+{{--                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col px-2 pb-3">--}}
+{{--                <div class="class-card-wrap border border-muted">--}}
+{{--                    <img src="/images/tumbling.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">--}}
+{{--                    <div class="class-card-content my-3">--}}
+{{--                        <p class="m-0 text-center"><strong>Tumbling</strong></p>--}}
+{{--                        --}}{{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
+{{--                        <hr>--}}
+{{--                        <div class="text-center">--}}
+{{--                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
+{{--                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col px-2 pb-3">--}}
+{{--                <div class="class-card-wrap border border-muted">--}}
+{{--                    <img src="/images/distance-learning-lab.jpg" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">--}}
+{{--                    <div class="class-card-content my-3">--}}
+{{--                        <p class="m-0 text-center"><strong>Distance Learning Lab</strong></p>--}}
+{{--                        --}}{{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
+{{--                        <hr>--}}
+{{--                        <div class="text-center">--}}
+{{--                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
+{{--                            <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="col px-2 pb-3">
                 <div class="class-card-wrap border border-muted">
                     <img src="/images/drop-in-classes.jpg" alt="" class="img-fluid" style="height: 452.5px; object-fit: cover; object-position: 45% 0;">
                     <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>7 & Under Monthly Drop In Classes</strong></p>
+                        <p class="m-0 text-center"><strong>1 Day and Multi-Day Camps</strong></p>
                         {{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
                         <hr>
                         <div class="text-center">
@@ -394,17 +397,17 @@
                 <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
                     <ion-icon name="checkmark-circle-outline"></ion-icon>
                     <p class="achievement-number mx-3">3</p>
-                    <p class="achievement-text">Ways To Take Class - <br>In-Studio, Live Stream, & Pre-Recorded</p>
-                </div>
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="body-outline"></ion-icon>
-                    <p class="achievement-number mx-3">10</p>
-                    <p class="achievement-text">YPAD Certified Staff</p>
+                    <p class="achievement-text">Ways To Take Class - <br>In-Studio, Live Stream, & Social Bubble</p>
                 </div>
                 <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
                     <ion-icon name="people-circle-outline"></ion-icon>
-                    <p class="achievement-number mx-3">20</p>
+                    <p class="achievement-number mx-3">18</p>
                     <p class="achievement-text">Years Serving Our Community</p>
+                </div>
+                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
+                    <ion-icon name="body-outline"></ion-icon>
+                    <p class="achievement-number mx-3">20+</p>
+                    <p class="achievement-text">Staff Members</p>
                 </div>
                 <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
                     <ion-icon name="musical-notes-outline"></ion-icon>

@@ -21,7 +21,10 @@
             <h2 class="text-uppercase text-center">Take the First Step</h2>
             <h1 class="text-uppercase text-center">To Dance With Us</h1>
             <div class="d-flex justify-content-center mt-4">
-                <a href="/summer"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
+                <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>
+            </div>
+            <div class="d-flex justify-content-center mt-4">
+                <a href="" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
             </div>
         </div>
     </div>
@@ -49,8 +52,8 @@
     </div>
     <div class="box-three py-2">
         <div>
-            <ion-icon name="play-circle-outline"></ion-icon>
-            <p>Pre-Recorded Classes</p>
+            <ion-icon name="person-circle-outline"></ion-icon>
+            <p>Private Lessons & Social Bubble Classes</p>
         </div>
     </div>
 </div>

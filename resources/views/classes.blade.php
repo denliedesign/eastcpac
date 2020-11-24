@@ -17,14 +17,14 @@
             </div>
         </div>
         <h2 class="text-center mt-5 font-weight-bold">Class Descriptions</h2>
-        <div class="class-desc mb-5">
-            <img src="/images/class-1.png" alt="class logo" class="img-fluid" style="max-width: 225px; height: auto;">
-            <p>
-                Out Distance Learning Lab is a way for parents to continue to work while their kids are distant learning.  Your child would bring his or her own school-issued curriculum, workbooks, and laptop to the studio.  We provide a Cohort Leader with teaching experience to help and keep your kids on task.  This program is best for independent learners who just need a watchful eye and occasional help.  Space is limited to 12 kids per cohort and open to grades 2-8.
-                <br><br>Monday-Friday 8-2
-                <br>Program cost $300 per month
-            </p>
-        </div>
+{{--        <div class="class-desc mb-5">--}}
+{{--            <img src="/images/class-1.png" alt="class logo" class="img-fluid" style="max-width: 225px; height: auto;">--}}
+{{--            <p>--}}
+{{--                Out Distance Learning Lab is a way for parents to continue to work while their kids are distant learning.  Your child would bring his or her own school-issued curriculum, workbooks, and laptop to the studio.  We provide a Cohort Leader with teaching experience to help and keep your kids on task.  This program is best for independent learners who just need a watchful eye and occasional help.  Space is limited to 12 kids per cohort and open to grades 2-8.--}}
+{{--                <br><br>Monday-Friday 8-2--}}
+{{--                <br>Program cost $300 per month--}}
+{{--            </p>--}}
+{{--        </div>--}}
         <div class="class-desc mb-5">
             <img src="/images/class-2.jpg" alt="class logo" class="img-fluid" style="max-width: 225px; height: auto;">
             <p>
@@ -43,7 +43,8 @@
             <p>
                 Our Ages 2-3 Boogie Babies program is a creative movement/ballet program. Our experienced adult teachers understand that our youngest dancers require the utmost care. That is why we pull out all the stops for our 2-3 year olds. We have put together a class format that is the perfect balance of structure and free expression. We use scarves, instruments, bean bags, hula hoops, ribbons and song and dance to teach dance basics and foundations. Our Boogie Babies program develops coordination, musical awareness, and listening skills as well as confidence, poise and discipline. All while they are having fun and socializing with other children their age!
             </p>
-            <p class="lead mb-0 mt-5">Ages 3-5 Boogie Babies Tap and Jazz</p>
+            <img src="/images/class-4.jpg" alt="class logo" class="img-fluid mt-4" style="max-width: 225px; height: auto;">
+            <p class="lead mb-0">Ages 3-5 Boogie Babies Tap and Jazz</p>
             <p>
                 In our Ages 3-5 Boogie Babies program, our tap or jazz class dancer can take one or, better yet, both! Each month is focused on a different theme but follows the same structure so the dancers can count on the continuity and flow of the class which helps to build a trusting, safe environment. Our Boogie Babies program develops coordination, musical awareness, and listening skills as well as confidence, poise and discipline. All while they are having fun and socializing with other children their age and being taught by a qualified adult instructor!
             </p>

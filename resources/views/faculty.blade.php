@@ -13,7 +13,7 @@
             <section>
                 <h2 class="pb-5 font-weight-bold text-center">Faculty</h2>
             </section>
-            <div class="about-teacher-wrapper row">
+            <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/nina-koch.jpg">
@@ -60,8 +60,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
+
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/kathryn-phillips-lopez.jpg">
@@ -78,6 +77,32 @@
                 </div>
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
+                        <img class="teacher-img" src="images/lori-pitts.jpg">
+                        <button class="bioaccordion"><h4>Miss Lori Pitts</h4></button>
+                        <div class="biopanel">
+                            <p>
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="teacher-col col-sm">
+                    <ul class="list-group teacher-list">
+                        <li class="list-group-item">Catrina Van Bemmel</li>
+                        <li class="list-group-item">Ryann Brinkman</li>
+                        <li class="list-group-item">Victoria Ross</li>
+                        <li class="list-group-item">Nesha Shedd</li>
+                        <li class="list-group-item">Jansie Thompkins</li>
+                    </ul>
+                </div>
+            </div>
+
+            <section>
+                <h2 class="py-5 font-weight-bold text-center">Guest Instructors</h2>
+            </section>
+            <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+                <div class="teacher-col col-sm">
+                    <div class="about-teacher-card">
                         <img class="teacher-img" src="images/stephanie-knudson.jpg">
                         <button class="bioaccordion"><h4>Miss Stephanie Knudson</h4></button>
                         <div class="biopanel">
@@ -92,14 +117,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="teacher-col col-sm">
-                    <ul class="list-group teacher-list">
-                        <li class="list-group-item">Nesha Shedd</li>
-                        <li class="list-group-item">Lori Stefani</li>
-                        <li class="list-group-item">Jansie Thompkins</li>
-                        <li class="list-group-item">Victoria Ross</li>
-                    </ul>
-                </div>
+                    <div class="teacher-col col-sm">
+                        <ul class="list-group teacher-list">
+                            <li class="list-group-item">Jonni Rogers</li>
+                        </ul>
+                    </div>
             </div>
 
         </section>
