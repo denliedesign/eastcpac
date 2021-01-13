@@ -12,21 +12,41 @@
         <h2 class="text-center mt-3 font-weight-bold">Camps & Events</h2>
 
         <div class="event-table">
-            <p class="lead font-weight-bold mt-5 mb-0 text-center" style="color: #12a9b0;">Member Only Events</p>
+            <p class="lead font-weight-bold mt-5 mb-0 text-center" style="color: #12a9b0;">
+                6 Week Classes
+                / Ages 3-5
+                / Wednesdays 5:30-6
+            </p>
             <table class="table mb-5">
                 <tbody>
                 <tr>
-                    <th scope="row">October TBA</th>
-                    <td>Costume Carnival</td>
+                    <th scope="row">February 3</th>
+                    <td><a href="https://east-county-performing-arts-center.studiosuite.io/story-time-ballet" target="_blank">Princess Story Time Ballet In Person Camp</a></td>
                 </tr>
                 <tr>
-                    <th scope="row">December 6</th>
-                    <td>Little Stars Holiday Show</td>
+                    <th scope="row">February 3</th>
+                    <td><a href="https://east-county-performing-arts-center.studiosuite.io/virtual-story-time-ballet" target="_blank">Princess Story Time Ballet Virtual Camp</a></td>
                 </tr>
-                <tr>
-                    <th scope="row">December 14-18</th>
-                    <td>Parent Appreciation Week</td>
-                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="event-table">
+            <p class="lead font-weight-bold mt-5 mb-0 text-center" style="color: #12a9b0;">Member Only Events</p>
+            <table class="table mb-5">
+                <tbody>
+{{--                <tr>--}}
+{{--                    <th scope="row">October TBA</th>--}}
+{{--                    <td>Costume Carnival</td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <th scope="row">December 6</th>--}}
+{{--                    <td>Little Stars Holiday Show</td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <th scope="row">December 14-18</th>--}}
+{{--                    <td>Parent Appreciation Week</td>--}}
+{{--                </tr>--}}
                 <tr>
                     <th scope="row">April 24</th>
                     <td>Prince & Princess Tea Party</td>
@@ -44,13 +64,15 @@
             </p>
             <table class="table mb-5">
                 <tbody>
-                <tr>
-                    <th scope="row">Sept. 28-October 2</th>
-                    <td>Princess Storytime Adventure</td>
-                </tr>
+{{--                <tr>--}}
+{{--                    <th scope="row">Sept. 28-October 2</th>--}}
+{{--                    <td>Princess Storytime Adventure</td>--}}
+{{--                </tr>--}}
                 <tr>
                     <th scope="row">March 15-19</th>
-                    <td>Spring Break Kids Camp</td>
+                    <td>
+                        <a href="https://east-county-performing-arts-center.studiosuite.io/spring-break-kids-camp" target="_blank">Spring Break Kids Camp</a>
+                    </td>
                 </tr>
                 <tr>
                     <th scope="row">June 21-25</th>
@@ -84,29 +106,29 @@
             </p>
             <table class="table mb-5">
                 <tbody>
-                <tr>
-                    <th scope="row">Aug 29</th>
-                    <td>Princess Academy</td>
-                </tr>
-                <tr>
-                    <th scope="row">Sept 12</th>
-                    <td>Puppy Patrol Camp</td>
-                </tr>
-                <tr>
-                    <th scope="row">Oct 17</th>
-                    <td>Pumpkin Party</td>
-                </tr>
-                <tr>
-                    <th scope="row">Nov 14</th>
-                    <td>Dance Descendants</td>
-                </tr>
-                <tr>
-                    <th scope="row">Dec 12</th>
-                    <td>Sugarplum Fairy</td>
-                </tr>
+{{--                <tr>--}}
+{{--                    <th scope="row">Aug 29</th>--}}
+{{--                    <td>Princess Academy</td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <th scope="row">Sept 12</th>--}}
+{{--                    <td>Puppy Patrol Camp</td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <th scope="row">Oct 17</th>--}}
+{{--                    <td>Pumpkin Party</td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <th scope="row">Nov 14</th>--}}
+{{--                    <td>Dance Descendants</td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <th scope="row">Dec 12</th>--}}
+{{--                    <td>Sugarplum Fairy</td>--}}
+{{--                </tr>--}}
                 <tr>
                     <th scope="row">Jan 16</th>
-                    <td>Fancy Nancy</td>
+                    <td><a href="https://east-county-performing-arts-center.studiosuite.io/fancy-nancy-camp" target="_blank">Fancy Nancy</a></td>
                 </tr>
                 <tr>
                     <th scope="row">Feb 13</th>
