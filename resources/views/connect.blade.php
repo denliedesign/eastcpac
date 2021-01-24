@@ -15,7 +15,7 @@
                 <form method="post" action="connect" style="border: 1px solid silver; border-radius: 10px;" class="p-5">
                     <div class="form-inline">
                         <div class="form-group">
-                            <label for="code" class="mr-2">Code</label>
+                            <label for="code" class="mr-2">Password</label>
                             <input type="text" class="form-control mr-2" id="code" name="code" aria-describedby="code">
                         </div>
                         @csrf
