@@ -53,6 +53,18 @@ Route::get('parents', function () {
     return view('parents');
 });
 
+//Route::get('live-stream', function () {
+//    return view('live-stream');
+//});
+
+Route::get('connect', function () {
+    return view('connect');
+});
+
+Route::post('connect', function () {
+    return view('connect');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
