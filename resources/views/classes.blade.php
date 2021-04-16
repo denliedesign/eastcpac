@@ -8,6 +8,7 @@
     @include('mobiles')
     @include('headers')
 
+
     <div class="container my-5">
         <div class="bottom-buttons">
             <div class="text-center">
@@ -16,6 +17,10 @@
                 <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink text-center text-uppercase mx-1">Register</div></a>
             </div>
         </div>
+        <h2 class="text-center mt-5 font-weight-bold">Summer</h2>
+        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-1.png" alt="summer part 1" class="img-fluid mt-1 rounded shadow"></a>
+        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-2.png" alt="summer part 1" class="img-fluid mt-3 rounded shadow"></a>
+        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-3.png" alt="summer part 1" class="img-fluid mt-3 rounded shadow"></a>
         <h2 class="text-center mt-5 font-weight-bold">Class Descriptions</h2>
 {{--        <div class="class-desc mb-5">--}}
 {{--            <img src="/images/class-1.png" alt="class logo" class="img-fluid" style="max-width: 225px; height: auto;">--}}
