@@ -100,7 +100,7 @@
                     <div style="width: 100%"><iframe width="100%" height="275" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=100%25&amp;hl=en&amp;q=3901%20Walnut%20Blvd,%20Brentwood,%20CA%2094513+(East%20County%20Performing%20Arts%20Center)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
                 </div>
             </div>
-            <p class="pt-5" id="credit"><a href="https://denliedesign.com/" target="_blank"><small class="text-muted">Denlie Design</small></a></p>
+            <p class="pt-5" id="credit"><a href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a></p>
         </div>
     </div>
 </div>
