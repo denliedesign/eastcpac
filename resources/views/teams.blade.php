@@ -63,27 +63,24 @@
         <p>
             <strong>Semi-Comp Teams do not need to audition, but please fill out the audition application.</strong>
             <br><br>
-            All dancers auditioning must have completed the ONLINE AUDITION APPLICATION completed before June 18th at 3pm. Dancers need to come with dance shoes for style auditioning for, dance clothes, hair in a ponytail with all hair out of their face (girls).
+            All dancers auditioning must have completed the ONLINE AUDITION APPLICATION completed before June 9th at 3pm. Dancers need to come with dance shoes for style auditioning for, dance clothes, hair in a ponytail with all hair out of their face (girls).
             <br><br>
-            Along with the online application, dancers will need to bring their signed Code of Conduct and their Energy Bus Ticket (available below) and headshot.  As discussed in the parent meetings ECPAC is rooted in the practices we learned in the book The Energy Bus so dancers will need to turn in their ticket to ride!
+            Along with the online application and headshot, send them with water.
             <br><br>
-            Send them with water
-            They will learn a combination and they will have to show the panel of judges (teachers) as many times as needed in groups
-            Some dancers will be asked to attend the next age group later in the day if the judges would like to see them dance with older dancers
+            They will learn a combination and they will have to show the panel of judges (teachers) as many times as needed in groups.
+            <br>Some dancers will be asked to attend the next age group later if the judges would like to see them dance with older dancers
             <br><br>
             Dancers attend the time for the style they wish to be considered for and the time for their age as of June 1 (not age in the Fall)
         </p>
-        <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">2020 Competition Team Auditions</p>
+        <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">2021 Competition Team Auditions</p>
         <p>
             Please email if you have any questions ecpaccompteam@gmail.com
         </p>
         <ul style="list-style-type: none;">
             <li><a href="/images/comp-team-reasons.pdf" target="_blank">5 Reasons to choose to compete with ECPAC</a></li>
-            <li><a href="/images/comp-team-parent-handbook.pdf" target="_blank">Comp Parent Handbook</a></li>
-            <li><a href="https://docs.google.com/document/d/1q15ognpWDgzb-xlQw9b5eumICVP3DiyEls273JoByE0/edit?usp=sharing" target="_blank">Dancer Code of Conduct</a></li>
-            <li><a href="/images/comp-team-tuition.pdf" target="_blank">Comp Team Tuition</a></li>
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfITUQdbFEWY9IEftAhTeSGyVtqpJhpuW0QUU_D2ybpvUMiCQ/viewform?usp=sf_link" target="_blank">Competition Application</a></li>
-            <li><a href="https://www.dropbox.com/sh/ai3cbyrn8ozcuqg/AACJRqD5_zjMDxaNVz1JQTLBa?dl=0" target="_blank">Aduition Videos & Parent Meeting Recordings</a></li>
+            <li><a href="/images/comp-parent-handbook-21.pdf" target="_blank">Comp Parent Handbook</a></li>
+            <li><a href="/images/comp-tuition-21.pdf" target="_blank">Comp Team Tuition</a></li>
+            <li><a href="https://forms.gle/exXfvxp9XHTiZWoc7" target="_blank">Competition Application</a></li>
         </ul>
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Answers to Common Questions</p>
         <p>
@@ -98,6 +95,40 @@
             <br><br>
             During the convention, dancers have the opportunity to audition for scholarships to attend the convention for free the next year or various prizes that will continue their dance education…so prizes conventions have awarded are music video shoots, meetings/auditions with talent agents, photo shoots, free classes at professional studios in LA and dance trips to New York City. It is an exhausting weekend but completely worth it.
         </p>
+
+        <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Comp Audition Schedule</p>
+        <p>
+            <strong>Friday, June 11:</strong>
+            <br><u>Ages 5-8</u>
+            <br>2:30-3:15: Tap
+            <br>3:15- 4:00 Jazz
+            <br>4:00- 4:45: Lyrical
+            <br>4:45- 5:30: Hip Hop
+            <br><br>
+            <u>Ages 9- 11</u>
+            <br>5:30- 6:30: Jazz
+            <br>6:30- 7:30: Tap
+            <br>7:30- 8:30: Contemporary
+            <br><br>
+            <strong>Saturday, June 12:</strong>
+            <br><u>Ages 9+ Hip Hop</u>
+            <br>8:30- 9:00
+            <br><br>
+            <u>Ages 12-14</u>
+            <br>9:00- 10:00: Jazz
+            <br>10:00- 10:45: Tap
+            <br>10:45- 11:30: Contemporary
+            <br><br>
+            <u>Ages 15 and up</u>
+            <br>12:00- 12:45: Jazz
+            <br>12:45- 1:30: Tap
+            <br>1:30- 2:15: Contemporary
+            <br><br>
+            <em>** Dancers should be prepared to attend the next age up as well as their current age range. **</em>
+            <br><br>
+            <em>*** Semi Comp Teams, Frozen Friends, Jo Bow, and Aladdin do NOT need to attend auditions***</em>
+        </p>
+
     </div>
 
 @endsection
