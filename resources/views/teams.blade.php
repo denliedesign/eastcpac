@@ -55,10 +55,10 @@
             At ECPAC although we have a strict program and high expectations for our dancers, we are a family. We work hard together and we celebrate and have fun together!
         </p>
         <div class="row my-4 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-            <img src="/images/competition-1.jpg" alt="comp team info" class="p-1 img-fluid">
-            <img src="/images/competition-2.jpg" alt="comp team info" class="p-1 img-fluid">
-            <img src="/images/competition-3.jpg" alt="comp team info" class="p-1 img-fluid">
-            <img src="/images/competition-4.jpg" alt="comp team info" class="p-1 img-fluid">
+            <img src="/images/competition-1.jpg" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
+            <img src="/images/competition-2.jpg" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
+            <img src="/images/competition-3.jpg" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
+            <img src="/images/competition-4.jpg" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
         </div>
         <p>
             <strong>Semi-Comp Teams do not need to audition, but please fill out the audition application.</strong>
