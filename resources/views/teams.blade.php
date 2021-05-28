@@ -129,6 +129,26 @@
             <em>*** Semi Comp Teams, Frozen Friends, Jo Bow, and Aladdin do NOT need to attend auditions***</em>
         </p>
 
+        <h2 class="text-center mt-5 font-weight-bold">Parent Info Meetings</h2>
+        <p>
+            <strong>New parent information zoom meeting</strong>
+            <br>June 3rd 6:00 pm
+            <br>Join Zoom Meeting
+            <br>https://us02web.zoom.us/j/83078829362?pwd=bkJRVitSU3I3WG5FL3NhckwwUHVDUT09
+            <br><br>
+            <br>Meeting ID: 830 7882 9362
+            <br>Passcode: 103154
+            <br><br>
+
+            <br><strong>Current Families Q&A</strong>
+            <br>June 3rd 7:30
+            <br>Join Zoom Meeting
+            <br>https://us02web.zoom.us/j/82766550049?pwd=b1pvT1gxazdhd2tzRjZ0TjIxRW44Zz09
+            <br><br>
+            <br>Meeting ID: 827 6655 0049
+            <br>Passcode: 920379
+        </p>
+
     </div>
 
 @endsection
