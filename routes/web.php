@@ -65,6 +65,10 @@ Route::post('connect', function () {
     return view('connect');
 });
 
+Route::get('brentwood-kids-dance', function () {
+    return view('brentwood-kids-dance');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
