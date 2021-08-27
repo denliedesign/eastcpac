@@ -109,7 +109,7 @@
                         </div>
                         <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">
                             <p>
-                                Dance in person with us confidently. We follow the Safer Studio Standards.
+                                Brentwood Kids Dance! Dance in person with us confidently. We follow the Safer Studio Standards.
                             </p>
                         </div>
                     </div>
@@ -167,7 +167,8 @@
             </div>
         </div>
 
-        <h5 class="text-center mt-3 mb-3">A dance class for every interest and learning preference!</h5>
+        <h5 class="text-center mt-3 mb-3">A dance class for every interest and learning preference!
+            <br>In Brentwood, kids dance is our specialty!</h5>
         <div id="colored-dashes" class="d-flex justify-content-center">
             <div class="one-dash"></div>
             <div class="two-dash"></div>
@@ -254,7 +255,8 @@
     </div>
 
     <div class="container">
-        <h2 class="my-5 font-weight-bold text-uppercase">Dance, Acro, and Theater Classes For All Ages</h2>
+        <h2 class="my-5 font-weight-bold text-uppercase">Dance, Acro, and Theater Classes For All Ages
+            <br><span class="text-muted" style="font-size: 0.6em;">Dance Classes For Kids in Brentwood</span></h2>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mb-5">
             <div class="col px-2 pb-3">
                 <div class="class-card-wrap border border-muted">
