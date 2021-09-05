@@ -53,6 +53,10 @@ Route::get('parents', function () {
     return view('parents');
 });
 
+Route::get('/ballet-company-of-east-county', function () {
+    return view('/ballet-company-of-east-county');
+});
+
 //Route::get('live-stream', function () {
 //    return view('live-stream');
 //});

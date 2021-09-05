@@ -17,6 +17,9 @@
     <a class="nav-link" href="/teams">Teams</a>
 </li>
 <li class="nav-item">
+    <a class="nav-link" href="/ballet-company-of-east-county">Nutcracker</a>
+</li>
+<li class="nav-item">
     <a class="nav-link" href="/recital">Recital</a>
 </li>
 <li class="nav-item">
