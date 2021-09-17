@@ -18,7 +18,7 @@
             </div>
         </nav>
         <div class="d-flex justify-content-center mt-4">
-            <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
+            <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>
         </div>
     </div>
 </div>
