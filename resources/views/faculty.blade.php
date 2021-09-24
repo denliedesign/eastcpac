@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Faculty | East County Performing Arts Center')
+@section('title', 'Faculty | East County Performing Arts Center | Nina Koch')
 @section('description', 'Learn About Our Team And How We Can Help You.')
 
 @section('content')
@@ -13,22 +13,22 @@
             <section>
                 <h2 class="pb-5 font-weight-bold text-center">Faculty</h2>
             </section>
-            <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+            <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/nina-koch.jpg">
                         <button class="bioaccordion"><h4>Miss Nina Koch</h4></button>
                         <div class="biopanel">
                             <p>
-                                Nina began dancing at 2 years old in San Jose CA. She continued her training through high school and experienced many classes at conventions with industry professionals. She began teaching dance at 13 years old and majored in dance at San Jose State. Before moving to Brentwood with her husband in 2000 she was the Studio Director for her childhood school Lauri Gray’s School of Dance. Upon moving to Brentwood Nina took a teaching job at a small, struggling studio. Quickly after, she had the opportunity to purchase the studio. Since then she has grown East County Performing Arts Center to be the largest studio in the area, co founded Brentwood Children’s Ballet Theater, opened a second studio in Antioch, opened a dance retail store and started a performing arts based preschool.
+                                Nina Koch began dancing at 2 years old in San Jose CA. She continued her training through high school and experienced many classes at conventions with industry professionals. She began teaching dance at 13 years old and majored in dance at San Jose State. Before moving to Brentwood with her husband in 2000 she was the Studio Director for her childhood school Lauri Gray’s School of Dance. Upon moving to Brentwood Nina Koch took a teaching job at a small, struggling studio. Quickly after, she had the opportunity to purchase the studio. Since then she has grown East County Performing Arts Center to be the largest studio in the area, co founded Brentwood Children’s Ballet Theater, opened a second studio in Antioch, opened a dance retail store and started a performing arts based preschool.
                                 <br><br>
                                 Her students have earned many successes including, numerous title awards and scholarships at competition and convention, and have continued their training at State Street Ballet in Santa Barbara, Joffery Ballet in New York, Edge Performing Arts Center and Millennium Dance Complex in LA, Steps on Broadway and Broadway Dance Center in New York. Alumni of East County Performing Arts Center have gone on to dance at University of Idaho, UCLA, Sacramento State, UC Davis, Chico State, San Diego State, UC Irvine, Sonoma State, UC Santa Barbara, Univerity of Oregon, and Chapman University.
                                 <br><br>
-                                Nina has been featured as a successful businesswoman/studio owner in Dance Life Magazine, Dance Magazine and 110 Magazine. She has been a contributing writer for Dance Life Magazine. Nina’s passion for dance, teaching and mentoring children and young adults has laid the foundation for her successful dance businesses.
+                                Nina Koch has been featured as a successful businesswoman/studio owner in Dance Life Magazine, Dance Magazine and 110 Magazine. She has been a contributing writer for Dance Life Magazine. Nina Koch’s passion for dance, teaching and mentoring children and young adults has laid the foundation for her successful dance businesses.
                                 <br><br>
-                                Nina is a member of More Than Just Great Dancing, National Dance Education Organization, Association of Dance Competitions and Conventions, Soroptomists International, National Association of Professional Women, Successful Studio Strategies and National Association of Schools of Dance.
+                                Nina Koch is a member of More Than Just Great Dancing, National Dance Education Organization, Association of Dance Competitions and Conventions, Soroptomists International, National Association of Professional Women, Successful Studio Strategies and National Association of Schools of Dance.
                                 <br><br>
-                                Nina enjoys spending her time with her husband, David, three children Gabrielle, Christopher and Francesca, drooly lab Cody and Bart the Cat!
+                                Nina Koch enjoys spending her time with her husband, David, three children Gabrielle, Christopher and Francesca, drooly lab Cody and Bart the Cat!
                             </p>
                         </div>
                     </div>

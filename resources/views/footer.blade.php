@@ -5,7 +5,7 @@
                 <div class="mb-5 mb-md-0 col-md-1 d-flex justify-content-center">
                     <div class="copyright-items">
                         <img src="/images/ecpac-logo-circle.png" alt="">
-                        <p class="pt-2"><small class="text-muted">&#169; 2020</small></p>
+                        <p class="pt-2"><small class="text-muted">Nina Koch<br>&#169; 2021</small></p>
                     </div>
                 </div>
                 <div class="mb-5 mb-md-0 col-md-3">

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Ballet Company of East County | Brentwood, CA')
-@section('description', 'All Things Recital')
+@section('title', 'Ballet Company of East County | Brentwood, CA | Nina Koch')
+@section('description', 'Experience The Nutcracker With The Ballet Company Of East County')
 
 @section('content')
 

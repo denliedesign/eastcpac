@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Recital | East County Performing Arts Center')
+@section('title', 'Recital | East County Performing Arts Center | Nina Koch')
 @section('description', 'All Things Recital')
 
 @section('content')

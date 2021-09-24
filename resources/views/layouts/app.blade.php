@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="Dance Classes | Brentwood & Antioch, CA">
+    <meta property="og:title" content="Dance Classes | Brentwood & Antioch, CA | Nina Koch">
     <meta property="og:description" content="More than just great dancing! At CDMC, we offer one of the most complete dance instruction programs in Michigan and work with students of all ages and abilities.">
     <meta property="og:image" content="https://mistysdance.com/images/schoolyr1.jpg">
     <meta property="og:url" content="https://mistysdance.com/index.php">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 
-    <title>@yield('title', 'East County Performing Arts Center | Dance Classes Brentwood & Antioch, CA')</title>
+    <title>@yield('title', 'Dance Classes Brentwood & Antioch, CA | East County Performing Arts Center | Nina Koch')</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">

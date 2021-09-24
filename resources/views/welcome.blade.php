@@ -516,7 +516,8 @@
                         <a class="blog-link-img" href="https://missninak.com" target="_blank"><img src="/images/miss-nina-blog.jpg" alt="" class="img-fluid mb-4"></a>
                         <div class="row">
                             <div class="col-9">
-                                <a class="blog-link text-dark" href="https://missninak.com" target="_blank" style="text-decoration: none;"><h5 class="font-weight-bold">Miss Nina's Blog</h5></a>
+                                <a class="blog-link text-dark" href="https://missninak.com" target="_blank" style="text-decoration: none;"><h5 class="font-weight-bold pb-0 mb-0">Miss Nina's Blog</h5></a>
+                                <small class="text-muted">"My dream has always been to inspire, motivate and raise up kids… dance is the vessel I use to do that!" -Nina Koch</small>
                                 <div class="short-divide"></div>
                             </div>
                         </div>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'About | East County Performing Arts Center')
+@section('title', 'About | East County Performing Arts Center | Nina Koch')
 @section('description', '5 Things You Should Know When Choosing a Dance Studio')
 
 @section('content')

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Parent Information | East County Performing Arts Center')
+@section('title', 'Parent Info | East County Performing Arts Center | Nina Koch')
 @section('description', 'Save This Page To Be Up-To-Date With Our Calendar & Parent Handbook')
 
 @section('content')
