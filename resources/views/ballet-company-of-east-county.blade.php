@@ -8,11 +8,19 @@
     @include('mobiles')
     @include('headers-bcec')
 
-    <div class="container my-5">
+    <div class="container mt-5">
 {{--        <p class="my-0 py-0 text-center text-muted"><small>The Ballet Company Of East County</small></p>--}}
-        <div id="nutcracker-title" class="mb-5">
+        <div id="nutcracker-title">
             <h2 class="text-center my-0 font-weight-bold">The Nutcracker</h2>
             <h3 class="text-center my-0 py-0" style="font-family: 'Italianno', cursive; font-size: 2em;">Experience The Magic Of The Nutcracker</h3>
+        </div>
+
+        <div class="d-flex justify-content-center my-4">
+            <a href="https://us.patronbase.com/_ElCampanilTheatre/Productions/R011/Performances" target="_blank" class="mx-1">
+                <div class="btn btn-aqua btn-lg text-center text-uppercase">
+                    Buy Tickets Now!
+                </div>
+            </a>
         </div>
 
         <div class="d-flex justify-content-center">
@@ -58,6 +66,14 @@
             <div class="col-sm my-2">
                 <img src="/images/east-county-nutcracker-3.jpg" alt="nutcracker" class="img-fluid rounded shadow" style="height: 233px; object-fit: cover; object-position: 15% 0; width: 100%;">
             </div>
+        </div>
+
+        <div class="d-flex justify-content-center my-4">
+            <a href="https://us.patronbase.com/_ElCampanilTheatre/Productions/R011/Performances" target="_blank" class="mx-1">
+                <div class="btn btn-aqua btn-lg text-center text-uppercase">
+                    Buy Tickets Now!
+                </div>
+            </a>
         </div>
 
     </div>

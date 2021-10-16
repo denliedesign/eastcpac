@@ -178,6 +178,17 @@
         </div>
     </div>
 
+    <div class="d-flex justify-content-center my-4">
+        <div>
+            <h3 class="text-center">Nutcracker Tickets Now Available To Purchase!</h3>
+            <a href="https://us.patronbase.com/_ElCampanilTheatre/Productions/R011/Performances" target="_blank" class="mx-1 d-flex justify-content-center" style="text-decoration: none;">
+                <div class="btn btn-aqua btn-lg text-center text-uppercase">
+                    Buy Tickets Now!
+                </div>
+            </a>
+        </div>
+    </div>
+
     <div class="my-5 text-white d-none d-md-block">
         <div class="row m-0 c-0">
             <div class="col-6 bg-light-gray pl-5 py-2">
