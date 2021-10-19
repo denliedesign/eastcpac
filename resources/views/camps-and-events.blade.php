@@ -9,7 +9,8 @@
     @include('headers')
 
     <div class="container my-5">
-        <h2 class="text-center mt-3 font-weight-bold">Camps & Events</h2>
+        <h2 class="text-center mt-3 mb-0 font-weight-bold">Brentwood<br>Kids Dance Camps & Events</h2>
+        <p class="my-0 py-0 text-center"><small>Dance Camps & Events For Kids In Brentwood</small></p>
 
         <div class="event-table">
             <p class="lead font-weight-bold mt-5 mb-0 text-center" style="color: #12a9b0;">

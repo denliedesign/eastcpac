@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Dance Classes | East County Performing Arts Center | Nina Koch')
-@section('description', 'Class Offerings, Tuition, Description, and Dress Code')
+@section('title', 'Dance Classes Kids Brentwood | East County Performing Arts Center | Nina Koch')
+@section('description', 'Brentwood Dance For Kids with Class Offerings, Tuition, Description, and Dress Code')
 
 @section('content')
 
@@ -21,7 +21,7 @@
 {{--        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-1.png" alt="summer part 1" class="img-fluid mt-1 rounded shadow"></a>--}}
 {{--        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-2.png" alt="summer part 1" class="img-fluid mt-3 rounded shadow"></a>--}}
 {{--        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-3.png" alt="summer part 1" class="img-fluid mt-3 rounded shadow"></a>--}}
-        <h2 class="text-center mt-5 font-weight-bold">Class Descriptions</h2>
+        <h2 class="text-center mt-5 font-weight-bold">Our Dance Classes For Kids | Brentwood, CA</h2>
 {{--        <div class="class-desc mb-5">--}}
 {{--            <img src="/images/class-1.png" alt="class logo" class="img-fluid" style="max-width: 225px; height: auto;">--}}
 {{--            <p>--}}
