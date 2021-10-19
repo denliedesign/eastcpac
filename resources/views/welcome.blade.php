@@ -182,7 +182,7 @@
         <div>
             <h3 class="text-center">Nutcracker Tickets Now Available To Purchase!</h3>
             <a href="https://us.patronbase.com/_ElCampanilTheatre/Productions/R011/Performances" target="_blank" class="mx-1 d-flex justify-content-center" style="text-decoration: none;">
-                <div class="btn btn-aqua btn-lg text-center text-uppercase">
+                <div class="btn btn-aqua btn-lg text-center text-uppercase shadow">
                     Buy Tickets Now!
                 </div>
             </a>
@@ -433,21 +433,30 @@
 
     <div id="teacher-focus-section">
         <div class="container">
-            <div class="row pt-5" id="top-teacher-focus">
-                <div class="col-12 col-md-6">
-                    <p class="text-uppercase my-5" id="focus-label">Teacher Feature</p>
-                    <p id="focus-name" class="my-5">Mrs. Kathryn</p>
-                    <p class="my-5">Kathryn is a Bay Area native who grew up learning the classic styles of jazz and ballet as well as performing on dance competition teams. While studying dance at the University of California, Davis, Kathryn developed her love for modern dance as well as expanded her ballet education. <br><br> Kathryn joined the staff at East County Performing Arts Center in 2005 where she is given the opportunity to teach the love of dance to all ages. Kathryn is married with three children who all love to dance.</p>
-                    <p id="focus-list" class="text-uppercase font-weight-bold mt-5">teacher classes:</p>
+            <p class="text-uppercase mt-5" id="focus-label">Teacher Feature</p>
+            <div class="row" id="top-teacher-focus">
+                <div class="col-sm">
+                    <div>
+                        <p id="focus-name" class="mt-5 mb-0">Miss Nina Koch</p>
+                        <p>
+                            Nina Koch began dancing at 2 years old in San Jose CA. She continued her training through high school and experienced many classes at conventions with industry professionals. She began teaching dance at 13 years old and majored in dance at San Jose State. Before moving to Brentwood with her husband in 2000 she was the Studio Director for her childhood school Lauri Gray’s School of Dance. Upon moving to Brentwood Nina Koch took a teaching job at a small, struggling studio. Quickly after, she had the opportunity to purchase the studio. Since then she has grown East County Performing Arts Center to be the largest studio in the area, co founded Brentwood Children’s Ballet Theater, opened a second studio in Antioch, opened a dance retail store and started a performing arts based preschool.
+                        </p>
+                        <a href="/faculty" class="mx-1" style="text-decoration: none;">
+                            <div class="btn btn-aqua text-center text-uppercase shadow">
+                                Learn More
+                            </div>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-6 d-flex justify-content-center">
-                    <img src="images/miss-kathryn.png" alt="" class="img-fluid d-none d-md-block">
+                <div class="col-sm d-flex align-items-end">
+                    <img src="images/nina-koch-dance.jpg" alt="nina koch" class="img-fluid rounded shadow">
                 </div>
             </div>
+            <p id="focus-list" class="text-uppercase font-weight-bold mt-5">teacher classes:</p>
             <div class="row pb-5" id="teacher-focus-classes">
                 <div class="col-sm-3 mb-2">
                     <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/modern.jpg" alt="" class="img-fluid">
+                        <img src="/images/modern.jpg" alt="" style="height: 315px; width: 100%; object-fit: cover;">
                         <div class="class-card-content my-3">
                             <p class="m-0 text-center"><strong>Modern</strong></p>
                             <hr>
@@ -462,7 +471,7 @@
                 </div>
                 <div class="col-sm-3 mb-2">
                     <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/ballet.jpg" alt="" class="img-fluid">
+                        <img src="/images/ballet.jpg" alt="" style="height: 315px; width: 100%; object-fit: cover;">
                         <div class="class-card-content my-3">
                             <p class="m-0 text-center"><strong>Ballet</strong></p>
                             <hr>
@@ -477,7 +486,7 @@
                 </div>
                 <div class="col-sm-3 mb-2">
                     <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/tap.jpg" alt="" class="img-fluid">
+                        <img src="/images/tap.jpg" alt="" style="height: 315px; width: 100%; object-fit: cover;">
                         <div class="class-card-content my-3">
                             <p class="m-0 text-center"><strong>Tap</strong></p>
                             <hr>
@@ -492,7 +501,7 @@
                 </div>
                 <div class="col-sm-3 mb-2">
                     <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/jazz.jpg" alt="" class="img-fluid">
+                        <img src="/images/jazz.jpg" alt="" style="height: 315px; width: 100%; object-fit: cover;">
                         <div class="class-card-content my-3">
                             <p class="m-0 text-center"><strong>Jazz</strong></p>
                             <hr>

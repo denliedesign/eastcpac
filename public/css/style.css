@@ -302,8 +302,8 @@
 }
 
 #focus-label {
-    background: #062845;
-    color: white;
+    border: 1px solid #062845;
+    color: #062845;
     padding: 10px 20px;
     width: max-content;
 }
@@ -317,10 +317,10 @@
     font-size: 1.15em;
 }
 
-#teacher-focus-classes {
-    margin-top: -115px;
-    z-index: 3;
-}
+/*#teacher-focus-classes {*/
+/*    margin-top: -115px;*/
+/*    z-index: 3;*/
+/*}*/
 
 #trial-section {
     background: #12a9b0;
@@ -518,7 +518,9 @@
 /*---------------------------------------*/
 
 .teacher-img {
+    height: 425px;
     width: 100%;
+    object-fit: cover;
 }
 
 
