@@ -44,6 +44,9 @@
                             <a class="nav-link" href="/parties">Parties</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="/careers">Careers</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank">Register</a>
                         </li>
 
