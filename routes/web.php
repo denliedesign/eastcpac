@@ -21,6 +21,10 @@ Route::get('faculty', function () {
     return view('faculty');
 });
 
+Route::get('careers', function () {
+    return view('careers');
+});
+
 Route::get('why-ecpac', function () {
     return view('why-ecpac');
 });
@@ -72,6 +76,8 @@ Route::post('connect', function () {
 Route::get('brentwood-kids-dance', function () {
     return view('brentwood-kids-dance');
 });
+
+Route::resource('texts', 'TextController');
 
 Auth::routes();
 
