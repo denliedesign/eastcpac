@@ -10,6 +10,10 @@
 
     <div class="container my-5">
         <h2 class="text-center mt-3 font-weight-bold">Careers</h2>
+        <p>
+            Please Email your Resume and tell us why you would be a good fit for the ECPAC Team to
+            <a href="mailto:ecpacjobs@gmail.com">ecpacjobs@gmail.com</a>
+        </p>
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">
             Imagine a world where people wake up every morning inspired to grow leaders, deliver excellence, and make a big impact in the world.
             <br><br>
@@ -35,7 +39,10 @@
             </div>
         @endif
     @endforeach
-
+        <p>
+            Please Email your Resume and tell us why you would be a good fit for the ECPAC Team to
+            <a href="mailto:ecpacjobs@gmail.com">ecpacjobs@gmail.com</a>
+        </p>
     </div>
 
 @endsection
