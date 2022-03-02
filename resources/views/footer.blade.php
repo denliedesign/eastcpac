@@ -104,7 +104,11 @@
                 </div>
             </div>
             <p class="pt-5" id="credit"><a href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a></p>
-            <p id="credit"><a href="/brentwood-kids-dance"><small class="text-muted">Brentwood Kids Dance</small></a></p>
+            <p id="credit">
+                <a href="/brentwood-kids-dance"><small class="text-muted">Brentwood Kids Dance</small></a>
+                <span class="text-muted">&middot;</span>
+                <a href="/dance-classes-in-stockton-ca"><small class="text-muted">Dance Classes in Stockton</small></a>
+            </p>
         </div>
     </div>
 </div>

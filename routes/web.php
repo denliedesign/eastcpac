@@ -77,6 +77,10 @@ Route::get('brentwood-kids-dance', function () {
     return view('brentwood-kids-dance');
 });
 
+Route::get('dance-classes-in-stockton-ca', function () {
+    return view('dance-classes-in-stockton-ca');
+});
+
 Route::resource('texts', 'TextController');
 
 Auth::routes();
