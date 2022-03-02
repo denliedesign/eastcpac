@@ -18,7 +18,7 @@ dance classes in stockton ca - 70 - 1
             <div class="col-sm d-flex align-items-center">
                 <div class="text-center">
                     <h2 class="text-center mt-3 font-weight-bold">Dance Classes in Stockton CA at East County Performing Arts Center</h2>
-                    <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Our Dance Studio Serves Stockton, Brentwood, Antioch, and other surrounding areas.</p>
+                    <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Our Dance Studio Serves Stockton, Brentwood, and other surrounding areas.</p>
                     <p>
                         Whether it's Ballet, Jazz, Tap, Hip Hop, Acrobatics, Tumbling, Musical Theater, or Contemporary, we have a dance class for you! If you are looking for kids dance classes in Stockton, ECPAC has options for ages 2-18 years old.
                     </p>
