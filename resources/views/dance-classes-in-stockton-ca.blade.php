@@ -1,6 +1,10 @@
 <!--
-dance studios in stockton ca - 30 - 1
-dance classes in stockton ca - 70 - 1
+dance studios in stockton ca - 20 - 4
++0
+dance classes in stockton ca - 30 - 5
++1 footer
+stockton dance - 20 - 3
++0
 -->
 
 @extends('layouts.app')
@@ -14,13 +18,17 @@ dance classes in stockton ca - 70 - 1
     @include('headers')
 
     <div class="container my-5">
+        <div class="mb-5">
+            <h1 class="text-center my-3 font-weight-bold" style="font-size: 3em;">This is Stockton Dance</h1>
+            <img src="/images/stockton-dance.jpg" alt="stockton dancer" class="img-fluid">
+        </div>
         <div class="row">
             <div class="col-sm d-flex align-items-center">
                 <div class="text-center">
                     <h2 class="text-center mt-3 font-weight-bold">Dance Classes in Stockton CA at East County Performing Arts Center</h2>
-                    <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Our Dance Studio Serves Stockton, Brentwood, and other surrounding areas.</p>
+                    <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Looking for Dance Studios in Stockton, Brentwood, & surrounding areas? Dance With Us!</p>
                     <p>
-                        Whether it's Ballet, Jazz, Tap, Hip Hop, Acrobatics, Tumbling, Musical Theater, or Contemporary, we have a dance class for you! If you are looking for kids dance classes in Stockton, ECPAC has options for ages 2-18 years old.
+                        Whether it's Ballet, Jazz, Tap, Hip Hop, Acrobatics, Tumbling, Musical Theater, or Contemporary, we have a dance class for you! If you are looking for kids dance classes in Stockton CA, ECPAC has options for ages 2-18 years old.
                     </p>
                     <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink shadow text-center text-uppercase">REGISTER NOW</div></a>
                 </div>
@@ -46,9 +54,9 @@ dance classes in stockton ca - 70 - 1
                     </div>
                 </div>
                 <div class="col-sm">
-                    <h2 class="text-center font-weight-bold">Programs We Offer At Our Dance Studio for Stockton & Surrounding Areas</h2>
+                    <h2 class="text-center font-weight-bold">Programs We Offer For Dance Studios in Stockton CA & Surrounding Areas</h2>
                     <ul style="line-height: 2;">
-                        <li><a href="/classes">Dance Classes</a></li>
+                        <li><a href="/classes">Dance Classes In Stockton CA</a></li>
                         <li><a href="/teams">Performing Company</a></li>
                         <li><a href="/teams">Competition Team</a></li>
                         <li><a href="/ballet-company-of-east-county">The Ballet Company Of East County</a></li>
@@ -64,7 +72,7 @@ dance classes in stockton ca - 70 - 1
     <hr>
     <div class="container my-5">
         <p class="text-center">
-            East County Performing Arts Center in Stockton has dance for kids! Be a part of our dance family today.
+            East County Performing Arts Center has dance for kids! Be a part of our Stockton dance family today.
         </p>
         <div class="d-flex justify-content-center">
             <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink shadow text-center text-uppercase">REGISTER NOW</div></a>
