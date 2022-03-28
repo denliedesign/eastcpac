@@ -38,7 +38,7 @@
                 </p>
             </div>
             <div class="col-md">
-                <img src="/images/performing-company.png" alt="performing company brochure" class="img-fluid">
+                <img src="/images/audition-22-page-3.png" alt="performing company brochure" class="img-fluid">
             </div>
         </div>
 
@@ -57,12 +57,12 @@
         <div class="row my-4 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
             <img src="/images/audition-22-page-1.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
             <img src="/images/audition-22-page-2.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
-            <img src="/images/audition-22-page-3.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
+{{--            <img src="/images/audition-22-page-3.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">--}}
             <img src="/images/audition-22-page-4.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
             <img src="/images/audition-22-page-5.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
             <img src="/images/audition-22-page-6.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
             <img src="/images/audition-22-page-7.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
-            <img src="/images/audition-22-page-8.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">
+{{--            <img src="/images/audition-22-page-8.png" alt="comp team info" class="p-1 img-fluid" style="width: 100%; height: 100%;">--}}
         </div>
         <p>
             <strong>Semi-Comp Teams do not need to audition, but please fill out the audition application.</strong>
