@@ -7,12 +7,9 @@
             <div id="head-title" class="pt-5 mt-5">
                 <h2 class="text-uppercase text-center">Take the First Step</h2>
                 <h1 class="text-uppercase text-center">To Dance With Us</h1>
-                <div class="d-flex justify-content-center mt-4">
-                    <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>
-                </div>
-                <div class="d-flex justify-content-center mt-4">
-                    <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
-                </div>
+{{--                <div class="d-flex justify-content-center mt-4">--}}
+{{--                    <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>--}}
+{{--                </div>--}}
             </div>
         </div>
 {{--        <div id="stoplight">--}}
@@ -59,112 +56,116 @@
     </div>
 
     <div class="container">
-        <div class="d-none d-md-block">
+        <div class="">
             <div id="colored-boxes" class="d-flex justify-content-center">
-                {{--                <div id="box-one" class="flip-card">--}}
-                {{--                    <div class="flip-card-inner">--}}
-                {{--                        <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <div>--}}
-                {{--                                <ion-icon name="person-outline"></ion-icon>--}}
-                {{--                                <p>Private Lessons</p>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <p>--}}
-                {{--                                One-to-one instruction--}}
-                {{--                                <br><u>Great for:</u>--}}
-                {{--                                <br>&middot; Rapid learning & advancement--}}
-                {{--                                <br>&middot; Coaching on specific skills--}}
-                {{--                                <br>&middot; Complex scheduling needs--}}
-                {{--                            </p>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
-                {{--                <div id="box-two" class="flip-card">--}}
-                {{--                    <div class="flip-card-inner">--}}
-                {{--                        <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <div>--}}
-                {{--                                <ion-icon name="people-outline"></ion-icon>--}}
-                {{--                                <p>Semi-Private Classes</p>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <p>--}}
-                {{--                                One instructor to a small group of students--}}
-                {{--                                <br><u>Great for:</u>--}}
-                {{--                                <br>&middot; Rapid learning & advancement--}}
-                {{--                                <br>&middot; Small group--}}
-                {{--                                <br>&middot; Learning challenges or health concerns--}}
-                {{--                            </p>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
-                <div id="box-one" class="flip-card mr-1">
-                    <div class="flip-card-inner">
-                        <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="business-outline"></ion-icon>
-                                <p>In-Studio Classes</p>
+                <div class="row row-cols-2 row-cols-sm-2 row-cols-md-5 row-cols-lg-5">
+                    <div id="box-one" class="px-1">
+                        <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank">
+                            <div class="flip-card-inner">
+                                <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
+                                    <div>
+                                        <p>Book Trial</p>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                Brentwood Kids Dance! Dance in person with us confidently. We follow the Safer Studio Standards.
-                            </p>
-                        </div>
+                        </a>
                     </div>
-                </div>
-                {{--                <div id="box-four" class="flip-card">--}}
-                {{--                    <div class="flip-card-inner">--}}
-                {{--                        <div class="box-four flip-card-front d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <div>--}}
-                {{--                                <ion-icon name="videocam-outline"></ion-icon>--}}
-                {{--                                <p>Online Classes</p>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="box-four flip-card-back d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <p>--}}
-                {{--                                One instructor to a small group of students--}}
-                {{--                                <br><u>Great for:</u>--}}
-                {{--                                <br>&middot; Learning from the convenience of your own home--}}
-                {{--                                <br>&middot; Makeup classes--}}
-                {{--                                <br>&middot; Preference Health concerns--}}
-                {{--                            </p>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
-                <div id="box-two" class="flip-card ml-1">
-                    <div class="flip-card-inner">
-                        <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="videocam-outline"></ion-icon>
-                                <p>Live Stream</p>
+                    <div id="box-two" class="px-1">
+                        <a href="/camps-and-events#one-day-camps">
+                            <div class="flip-card-inner">
+                                <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">
+                                    <div>
+                                        <p>1-Day Camps</p>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                In case you have to stay home, all our classes are up on Live Stream.
-                            </p>
-                        </div>
+                        </a>
                     </div>
-                </div>
+                    <div id="box-three" class="px-1">
+                        <a href="/camps-and-events#six-week-sessions">
+                            <div class="flip-card-inner">
+                                <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">
+                                    <div>
+                                        <p>6 Week Sessions</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div id="box-four" class="px-1">
+                        <a href="/camps-and-events#summer-specials">
+                            <div class="flip-card-inner">
+                                <div class="box-four flip-card-front d-flex align-items-center justify-content-center text-center">
+                                    <div>
+                                        <p>Summer Specials</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div id="box-five" class="px-1">
+                        <a href="/classes">
+                            <div class="flip-card-inner">
+                                <div class="box-five flip-card-front d-flex align-items-center justify-content-center text-center">
+                                    <div>
+                                        <p>Year Round Dance</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    {{--                <div id="box-one" class="flip-card mr-1">--}}
+                    {{--                    <div class="flip-card-inner">--}}
+                    {{--                        <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">--}}
+                    {{--                            <div>--}}
+                    {{--                                <ion-icon name="business-outline"></ion-icon>--}}
+                    {{--                                <p>In-Studio Classes</p>--}}
+                    {{--                            </div>--}}
+                    {{--                        </div>--}}
+                    {{--                        <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">--}}
+                    {{--                            <p>--}}
+                    {{--                                Brentwood Kids Dance! Dance in person with us confidently. We follow the Safer Studio Standards.--}}
+                    {{--                            </p>--}}
+                    {{--                        </div>--}}
+                    {{--                    </div>--}}
+                    {{--                </div>--}}
+                    {{--                <div id="box-two" class="flip-card ml-1">--}}
+                    {{--                    <div class="flip-card-inner">--}}
+                    {{--                        <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">--}}
+                    {{--                            <div>--}}
+                    {{--                                <ion-icon name="videocam-outline"></ion-icon>--}}
+                    {{--                                <p>Live Stream</p>--}}
+                    {{--                            </div>--}}
+                    {{--                        </div>--}}
+                    {{--                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">--}}
+                    {{--                            <p>--}}
+                    {{--                                In case you have to stay home, all our classes are up on Live Stream.--}}
+                    {{--                            </p>--}}
+                    {{--                        </div>--}}
+                    {{--                    </div>--}}
+                    {{--                </div>--}}
 
-                <div id="box-three" class="flip-card ml-1">
-                    <div class="flip-card-inner">
-                        <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="person-circle-outline"></ion-icon>
-                                <p>Private Lessons & Social Bubble Classes</p>
-                            </div>
-                        </div>
-                        <div class="box-three flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                We offer socially distanced private lessons or semi-private lessons with your social bubble.
-                            </p>
-                        </div>
-                    </div>
+                    {{--                <div id="box-three" class="flip-card ml-1">--}}
+                    {{--                    <div class="flip-card-inner">--}}
+                    {{--                        <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">--}}
+                    {{--                            <div>--}}
+                    {{--                                <ion-icon name="person-circle-outline"></ion-icon>--}}
+                    {{--                                <p>Private Lessons & Social Bubble Classes</p>--}}
+                    {{--                            </div>--}}
+                    {{--                        </div>--}}
+                    {{--                        <div class="box-three flip-card-back d-flex align-items-center justify-content-center text-center">--}}
+                    {{--                            <p>--}}
+                    {{--                                We offer socially distanced private lessons or semi-private lessons with your social bubble.--}}
+                    {{--                            </p>--}}
+                    {{--                        </div>--}}
+                    {{--                    </div>--}}
+                    {{--                </div>--}}
                 </div>
             </div>
+        </div>
+
+        <div class="d-flex justify-content-center mt-4">
+            <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
         </div>
 
         <h5 class="text-center mt-3 mb-3">A dance class for every interest and learning preference!

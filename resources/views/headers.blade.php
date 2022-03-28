@@ -19,7 +19,7 @@
     <div class="banner-wrap my-3">
         <div class="banner" style="position: relative;">
             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-                <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>
+                <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book A Trial Class</div></a>
             </div>
         </div>
     </div>

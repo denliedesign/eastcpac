@@ -85,7 +85,7 @@
 }
 
 #head-section {
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     background: url("/images/dancers-in-tutus.jpg");
     background-size: cover;
@@ -199,10 +199,11 @@
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-    margin-top: -100px;
     z-index: 3;
-    height: 224px;
-    width: 220px;
+    height: 180px;
+    /*height: 224px;*/
+    /*width: 220px;*/
+    width: 180px;
 }
 
 .flip-card:hover .flip-card-inner {
@@ -238,6 +239,10 @@
     font-weight: bold;
     font-size: 1.25em;
     padding: 5px 10px;
+}
+
+#colored-boxes {
+    margin-top: -100px;
 }
 
 .box-one, .one-dash { background: #EEA9AA !important; }
@@ -598,4 +603,11 @@
     text-align: center;
     background: rgba(255, 255, 255, 0.9);
     border-radius: 20px;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+    color: gray;
+    opacity: 50%;
 }

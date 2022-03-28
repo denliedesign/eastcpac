@@ -10,9 +10,9 @@
 <li class="nav-item">
     <a class="nav-link" href="/classes">Classes</a>
 </li>
-<li class="nav-item">
-    <a class="nav-link" href="/camps-and-events">Events</a>
-</li>
+{{--<li class="nav-item">--}}
+{{--    <a class="nav-link" href="/camps-and-events">Events</a>--}}
+{{--</li>--}}
 <li class="nav-item">
     <a class="nav-link" href="/teams">Teams</a>
 </li>

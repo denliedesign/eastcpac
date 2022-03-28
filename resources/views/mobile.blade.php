@@ -20,12 +20,12 @@
         <div id="head-title" class="mt-5 pt-5">
             <h2 class="text-uppercase text-center">Take the First Step</h2>
             <h1 class="text-uppercase text-center">To Dance With Us</h1>
-            <div class="d-flex justify-content-center mt-4">
-                <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>
-            </div>
-            <div class="d-flex justify-content-center mt-4">
-                <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
-            </div>
+{{--            <div class="d-flex justify-content-center mt-4">--}}
+{{--                <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your COVID Safe Trial Class</div></a>--}}
+{{--            </div>--}}
+{{--            <div class="d-flex justify-content-center mt-4">--}}
+{{--                <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>--}}
+{{--            </div>--}}
         </div>
     </div>
     <div id="stoplight">
@@ -37,23 +37,23 @@
     </div>
 </div>
 
-<div id="mobile-class-types" class="text-white text-center d-block d-md-none">
-    <div class="box-one py-2">
-        <div>
-            <ion-icon name="business-outline"></ion-icon>
-            <p>In-Studio Classes</p>
-        </div>
-    </div>
-    <div class="box-two py-2">
-        <div>
-            <ion-icon name="videocam-outline"></ion-icon>
-            <p>Live Stream</p>
-        </div>
-    </div>
-    <div class="box-three py-2">
-        <div>
-            <ion-icon name="person-circle-outline"></ion-icon>
-            <p>Private Lessons & Social Bubble Classes</p>
-        </div>
-    </div>
-</div>
+{{--<div id="mobile-class-types" class="text-white text-center d-block d-md-none">--}}
+{{--    <div class="box-one py-2">--}}
+{{--        <div>--}}
+{{--            <ion-icon name="business-outline"></ion-icon>--}}
+{{--            <p>In-Studio Classes</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--    <div class="box-two py-2">--}}
+{{--        <div>--}}
+{{--            <ion-icon name="videocam-outline"></ion-icon>--}}
+{{--            <p>Live Stream</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--    <div class="box-three py-2">--}}
+{{--        <div>--}}
+{{--            <ion-icon name="person-circle-outline"></ion-icon>--}}
+{{--            <p>Private Lessons & Social Bubble Classes</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</div>--}}

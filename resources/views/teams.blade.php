@@ -27,10 +27,10 @@
                     <br>DID YOU MISS THE WEBINAR?  DON'T WORRY!  CLICK THE LINK FOR THE REPLAY!
                 </p>
                 <ul style="list-style-type: none;">
-                    <li><a href="/images/performance-company.pdf" target="_blank">Participation Requirements and Information</a></li>
-                    <li><a href="https://docs.google.com/document/d/1wajzgE5o07KirPoORkX4Lit89flvSoXfAQbOB2SXDsc/edit?usp=sharing" target="_blank">Tentative Performance Schedule</a></li>
-                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdnUdE7vEMNY0rEQuHjfzksGaus-9M_ZtMvWbx77rsWO2ATAQ/viewform?usp=sf_link" target="_blank">Performing Co Application</a></li>
-                    <li><a href="/images/pc-tuition.pdf" target="_blank">Performing Co Tuition</a></li>
+                    <li><a class="disabled" href="/images/performance-company.pdf" target="_blank">Participation Requirements and Information</a></li>
+                    <li><a class="disabled" href="https://docs.google.com/document/d/1wajzgE5o07KirPoORkX4Lit89flvSoXfAQbOB2SXDsc/edit?usp=sharing" target="_blank">Tentative Performance Schedule</a></li>
+                    <li><a class="disabled" href="https://docs.google.com/forms/d/e/1FAIpQLSdnUdE7vEMNY0rEQuHjfzksGaus-9M_ZtMvWbx77rsWO2ATAQ/viewform?usp=sf_link" target="_blank">Performing Co Application</a></li>
+                    <li><a class="disabled" href="/images/pc-tuition.pdf" target="_blank">Performing Co Tuition</a></li>
                 </ul>
                 <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">What is Performing Company?</p>
                 <p>
@@ -63,14 +63,18 @@
         <p>
             <strong>Semi-Comp Teams do not need to audition, but please fill out the audition application.</strong>
             <br><br>
-            All dancers auditioning must have completed the ONLINE AUDITION APPLICATION completed before June 9th at 3pm. Dancers need to come with dance shoes for style auditioning for, dance clothes, hair in a ponytail with all hair out of their face (girls).
-            <br><br>
-            Along with the online application and headshot, send them with water.
-            <br><br>
+            All dancers auditioning must have completed the ONLINE AUDITION APPLICATION completed before Thursday, April 7th at 3pm. Dancers need to come with dance shoes for style auditioning for, dance clothes, hair in a ponytail with all hair out of their face..
+            <br>
+            <br>
+            Along with the online application and headshot, send them with water. <br>
+            <br>
             They will learn a combination and they will have to show the panel of judges (teachers) as many times as needed in groups.
-            <br>Some dancers will be asked to attend the next age group later if the judges would like to see them dance with older dancers
-            <br><br>
+            <br>
+            Some dancers will be asked to attend the next age group later if the judges would like to see them dance with older dancers
+            <br>
+            <br>
             Dancers attend the time for the style they wish to be considered for and the time for their age as of June 1 (not age in the Fall)
+            <br>
         </p>
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">2021 Competition Team Auditions</p>
         <p>
@@ -78,15 +82,15 @@
         </p>
         <ul style="list-style-type: none;">
             <li><a href="/images/comp-team-reasons.pdf" target="_blank">5 Reasons to choose to compete with ECPAC</a></li>
-            <li><a href="/images/comp-parent-handbook-21.pdf" target="_blank">Comp Parent Handbook</a></li>
-            <li><a href="/images/comp-tuition-21.pdf" target="_blank">Comp Team Tuition</a></li>
-            <li><a href="https://forms.gle/exXfvxp9XHTiZWoc7" target="_blank">Competition Application</a></li>
+            <li><a href="/images/comp-parent-handbook-22.pdf" target="_blank">Comp Parent Handbook</a></li>
+            <li><a href="/images/comp-tuition-22.pdf" target="_blank">Comp Team Tuition</a></li>
+            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfhWldXOSuge76Wza3bdzyjz2yVfCXg68FMX35OIDz9xnMl5A/viewform?usp=sf_link" target="_blank">Competition Application</a></li>
         </ul>
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Answers to Common Questions</p>
         <p>
             <strong>What is Competition Team?</strong>
             <br>
-            It is a chance for dancers to go to and compete in dance competitions. They compete against other dance studios in their age category and in dance categories, for example, 7-8 year old Jazz. All of the competitions we attend are within driving distance. Some competitions reward with trophies some with ribbons, some with cash.
+            It is a chance for dancers to go and compete in dance competitions. They compete against other dance studios in their age category and in dance categories, for example, 7-8 year old Jazz. All of the competitions we attend are within driving distance. Some competitions reward trophies, some with ribbons, some with cash.
             <br><br>
             Depending on how the dancers place, they can qualify to compete at a national competition. Many of the national competitions are held in Las Vegas and are always held in the summer. Some national competitions are televised. Competition Teams also have the opportunity to attend dance conventions.
             <br><br><strong>What is a Dance Convention</strong>
@@ -97,56 +101,45 @@
         </p>
 
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Comp Audition Schedule</p>
+        <p>Ages are based as of June 1</p>
         <p>
-            <strong>Friday, June 11:</strong>
-            <br><u>Ages 5-8</u>
-            <br>2:30-3:15: Tap
-            <br>3:15- 4:00 Jazz
-            <br>4:00- 4:45: Lyrical
-            <br>4:45- 5:30: Hip Hop
-            <br><br>
-            <u>Ages 9- 11</u>
-            <br>5:30- 6:30: Jazz
-            <br>6:30- 7:30: Tap
-            <br>7:30- 8:30: Contemporary
-            <br><br>
-            <strong>Saturday, June 12:</strong>
-            <br><u>Ages 9+ Hip Hop</u>
-            <br>8:30- 9:00
-            <br><br>
-            <u>Ages 12-14</u>
-            <br>9:00- 10:00: Jazz
-            <br>10:00- 10:45: Tap
-            <br>10:45- 11:30: Contemporary
-            <br><br>
-            <u>Ages 15 and up</u>
-            <br>12:00- 12:45: Jazz
-            <br>12:45- 1:30: Tap
-            <br>1:30- 2:15: Contemporary
+            <strong>Friday, April 8</strong> <br>
+            <u>Ages 9-12</u> <br>
+            3:45-4:15 Tap <br>
+            4:15- 5:00 Jazz <br>
+            Dinner Break <br>
+            6:00-7:00: Lyrical <br>
+            7:00-7:45: Hip Hop <br>
+            7:45-8:30 Hip Hop 13+ <br>
+            <br>
+            <strong>Saturday, April 9</strong> <br>
+            <u>Ages 13 and up</u> <br>
+            8:00- 9:30: Jazz <br>
+            9:30- 10:30: Tap <br>
+            10:30- 12:00 Contemporary <br>
+            <br>
+            Lunch break 12-12:30 <br>
+            <br>
+            <u>Ages 5-8</u> <br>
+            12:30-1:15 Tap <br>
+            1:15-2:15 Jazz <br>
+            2:15-3:15 Lyrical <br>
+            3:15-4:00 Hip Hop <br>
             <br><br>
             <em>** Dancers should be prepared to attend the next age up as well as their current age range. **</em>
             <br><br>
-            <em>*** Semi Comp Teams, Frozen Friends, Jo Bow, and Aladdin do NOT need to attend auditions***</em>
+            <em>****** Semi Comp Teams do <strong>NOT</strong> need to attend auditions******</em>
         </p>
 
         <h2 class="text-center mt-5 font-weight-bold">Parent Info Meetings</h2>
         <p>
             <strong>New parent information zoom meeting</strong>
-            <br>June 3rd 6:00 pm
-            <br>Join Zoom Meeting
-            <br>https://us02web.zoom.us/j/83078829362?pwd=bkJRVitSU3I3WG5FL3NhckwwUHVDUT09
+            <br>
+            March 31 6:30 pm via Zoom
             <br><br>
-            <br>Meeting ID: 830 7882 9362
-            <br>Passcode: 103154
-            <br><br>
-
-            <br><strong>Current Families Q&A</strong>
-            <br>June 3rd 7:30
-            <br>Join Zoom Meeting
-            <br>https://us02web.zoom.us/j/82766550049?pwd=b1pvT1gxazdhd2tzRjZ0TjIxRW44Zz09
-            <br><br>
-            <br>Meeting ID: 827 6655 0049
-            <br>Passcode: 920379
+            <strong>Current Families Q&A</strong>
+            <br>
+            March 31 7:30 pm via Zoom
         </p>
 
     </div>
