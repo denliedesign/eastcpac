@@ -80,7 +80,7 @@
             Dancers attend the time for the style they wish to be considered for and the time for their age as of June 1 (not age in the Fall)
             <br>
         </p>
-        <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">2021 Competition Team Auditions</p>
+        <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">2022 Competition Team Auditions</p>
         <p>
             Please email if you have any questions ecpaccompteam@gmail.com
         </p>
@@ -89,6 +89,7 @@
             <li><a href="/images/comp-parent-handbook-22.pdf" target="_blank">Comp Parent Handbook</a></li>
             <li><a href="/images/comp-tuition-22.pdf" target="_blank">Comp Team Tuition</a></li>
             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfhWldXOSuge76Wza3bdzyjz2yVfCXg68FMX35OIDz9xnMl5A/viewform?usp=sf_link" target="_blank">Competition Application</a></li>
+            <li><a href="https://forms.gle/vYDeXTCbH4sGEEZz9" target="_blank">Semi-Comp Application</a></li>
         </ul>
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Answers to Common Questions</p>
         <p>
@@ -137,13 +138,17 @@
 
         <h2 class="text-center mt-5 font-weight-bold">Parent Info Meetings</h2>
         <p>
-            <strong>New parent information zoom meeting</strong>
-            <br>
-            March 31 6:30 pm via Zoom
+            <strong>New Parent</strong>
+            <br>Topic: New Comp Parent Meeting
+            <br>Meeting Recording: (Meeting starts at 13 minutes)
+            <br><a href="https://us02web.zoom.us/rec/share/rcdUe9Ub_ESUYyTGoTYY-WpmWGNEH-IG-6JWlqs5ozDCq2HRiBYrPwWggQ51jqj2.zRjqdNK0Qpsc49_S">https://us02web.zoom.us/rec/share/rcdUe9Ub_ESUYyTGoTYY-WpmWGNEH-IG-6JWlqs5ozDCq2HRiBYrPwWggQ51jqj2.zRjqdNK0Qpsc49_S</a>
+            <br>Access Passcode: p7B$75ZU
             <br><br>
-            <strong>Current Families Q&A</strong>
-            <br>
-            March 31 7:30 pm via Zoom
+            <strong>Current Parent</strong>
+            <br>Topic: Current Comp Parent Meeting
+            <br>Meeting Recording:(Meeting starts at 19 minutes)
+            <br><a href="https://us02web.zoom.us/rec/share/TnYBbkB0MnuWyVhv-seV8r0V3SBnzZ9y8I2EI4_zWOVvFNXq0YAGCxl2W_02Yh2E.aFRagyZZ2LlFXbmh">https://us02web.zoom.us/rec/share/TnYBbkB0MnuWyVhv-seV8r0V3SBnzZ9y8I2EI4_zWOVvFNXq0YAGCxl2W_02Yh2E.aFRagyZZ2LlFXbmh</a>
+            <br>Access Passcode: s8#Pk$OW
         </p>
 
     </div>
