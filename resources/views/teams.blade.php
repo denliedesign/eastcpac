@@ -108,7 +108,7 @@
         <div class="my-3">
             <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Tap Audition for Ages 9-12</p>
             <video controls style="height: auto; width: 100%; max-width: 700px;">
-                <source src="images/tap-audition.mov" type="video/mov">
+                <source src="/images/tap-audition.mp4" type="video/mp4">
             </video>
         </div>
 
