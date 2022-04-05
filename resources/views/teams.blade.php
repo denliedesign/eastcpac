@@ -105,6 +105,13 @@
             During the convention, dancers have the opportunity to audition for scholarships to attend the convention for free the next year or various prizes that will continue their dance education…so prizes conventions have awarded are music video shoots, meetings/auditions with talent agents, photo shoots, free classes at professional studios in LA and dance trips to New York City. It is an exhausting weekend but completely worth it.
         </p>
 
+        <div class="my-3">
+            <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Tap Audition for Ages 9-12</p>
+            <video controls style="height: auto; width: 100%; max-width: 700px;">
+                <source src="images/tap-audition.mov" type="video/mov">
+            </video>
+        </div>
+
         <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Comp Audition Schedule</p>
         <p>Ages are based as of June 1</p>
         <p>
