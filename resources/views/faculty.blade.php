@@ -143,6 +143,9 @@
             </div>
 
         </section>
+
+        <p class="mt-5 text-center">Our Instructors teach dance classes for kids in Stockton CA, Brentwood CA, and other surrounding areas!</p>
+
     </div>
 
 @endsection

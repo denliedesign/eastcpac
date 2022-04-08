@@ -17,6 +17,8 @@
             Click LET'S PARTY to reserve your party today!
         </p>
         <a href="https://forms.gle/ms17t2AG4s3ZXRfZA" target="_blank"><div class="btn btn-lg btn-pink text-center text-uppercase">LET'S PARTY!</div></a>
+        <img src="/images/stockton-dance-parties.jpg" alt="stockton dance party cupcakes" class="img-fluid my-3">
+        <p class="text-muted" style="font-size: 0.9em">Stockton Dance Parties, Brentwood Dance Parties, & More. We serve all surrounding areas. Come celebrate with us!</p>
     </div>
 
 @endsection
