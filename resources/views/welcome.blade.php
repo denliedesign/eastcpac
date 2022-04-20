@@ -266,7 +266,7 @@
         </div>
     </div>
 
-    <div class="container">
+    <div class="container" id="class-categories">
         <h2 class="my-5 font-weight-bold text-uppercase">Dance, Acro, and Theater Classes For All Ages
             <br><span class="text-muted" style="font-size: 0.6em;">Dance Classes For Kids in Brentwood</span></h2>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mb-5">

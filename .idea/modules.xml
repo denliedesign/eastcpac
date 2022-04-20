@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../KAPA/.idea/KAPA.iml" filepath="$PROJECT_DIR$/../KAPA/.idea/KAPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MTJGD_TEMPLATE.iml" filepath="$PROJECT_DIR$/.idea/MTJGD_TEMPLATE.iml" />
     </modules>
   </component>
