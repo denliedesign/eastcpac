@@ -1,9 +1,7 @@
 @extends('layouts.app')
-
-@include('mobiles')
-@include('headers')
-
 @section('content')
+    @include('mobiles')
+    @include('headers')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
