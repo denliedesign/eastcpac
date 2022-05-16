@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use App\Hub;
 use App\Post;
 use App\Text;
 use App\Update;
@@ -36,6 +37,10 @@ class AppServiceProvider extends ServiceProvider
 
         view()->composer('*',function($view) {
             $view->with('texts', Text::all());
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('hubs', Hub::all());
         });
     }
 }

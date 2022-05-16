@@ -21,7 +21,7 @@
 {{--    <small id="ticket-note" class="d-none d-md-block">Tickets Available</small>--}}
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="/recital">Recital</a>
+    <a class="nav-link" href="/hubs">Hubs</a>
 </li>
 <li class="nav-item">
     <a class="nav-link" href="/parties">Parties</a>

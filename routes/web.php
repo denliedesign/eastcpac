@@ -1,5 +1,6 @@
 <?php
 
+use App\Hub;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -85,6 +86,14 @@ Route::get('dance-studios-in-stockton-ca', function () {
     return view('dance-studios-in-stockton-ca');
 });
 
+Route::get('/recital-hub', function () {
+    return view('/recital-hub');
+});
+
+Route::get('/competition-hub', function () {
+    return view('/competition-hub');
+});
+
 Route::resource('texts', 'TextController');
 
 Auth::routes();
@@ -93,3 +102,11 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('updates', 'UpdateController');
 Route::resource('posts', 'PostController');
+Route::resource('hubs', 'HubController');
+
+Route::get('/hubs/{hub:hubSlug}', function (Hub $hub) {
+    return view('hubs.show', compact('hub'));
+});
+Route::post('/hubs/{hub:hubSlug}', function (Hub $hub) {
+    return $hub;
+});
