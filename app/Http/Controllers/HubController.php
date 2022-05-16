@@ -18,7 +18,7 @@ class HubController extends Controller
     public function __construct()
     {
 //        $this->hubs = Hub::all()->sortByDesc('created_at');
-        $this->hubs = Hub::all();
+        $this->hubs = Hub::all()->sortBy('created_at');
         \View::share('hubs', $this->hubs);
     }
 
