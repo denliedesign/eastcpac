@@ -3,12 +3,10 @@
 namespace App;
 
 use Cviebrock\EloquentSluggable\Sluggable;
-//use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Hub extends Model
 {
-//    use HasFactory;
     use Sluggable;
     protected $guarded = [];
 
@@ -17,7 +15,7 @@ class Hub extends Model
      *
      * @return array
      */
-    public function sluggable()
+    public function sluggable(): array
     {
         return [
             'hubSlug' => [
