@@ -4,7 +4,7 @@
 </select>
 
 <div class="form-group mb-4">
-    <label for="hubImage">Hub Image</label><br>
+    <label for="hubImage">Hub Display Image</label><br>
     <input type="file" class="form-control-file" name="hubImage">
     <div>{{ $errors->first('hubImage') }}</div>
 </div>
@@ -16,7 +16,7 @@
 </div>
 
 <div class="form-group my-4">
-    <label for="hubPdf">Hub Pdf</label><br>
+    <label for="hubPdf">Hub Other Image</label><br>
     <input type="file" class="form-control-file" name="hubPdf">
     <div>{{ $errors->first('hubPdf') }}</div>
 </div>
