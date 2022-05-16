@@ -1,6 +1,9 @@
 @extends('layouts.app')
 @section('content')
 
+    @include('mobiles')
+    @include('headers')
+
     <div class="py-5">
         <div class="container pb-5">
             <div class="d-flex justify-content-center">
