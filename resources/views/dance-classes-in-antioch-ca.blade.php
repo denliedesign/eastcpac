@@ -11,7 +11,7 @@
     <div class="container my-5">
         <div class="mb-5">
             <h1 class="text-center my-3 font-weight-bold" style="font-size: 3em;">Dance Classes In Antioch CA</h1>
-            <img src="/images/dance-classes-in-antioch-ca.jpg" alt="antioch dancer" class="img-fluid">
+            <img src="/images/dance-classes-in-antioch-ca.jpg" alt="antioch dancer" class="img-fluid shadow rounded">
         </div>
         <div class="row">
             <div class="col-sm d-flex align-items-center">
@@ -21,7 +21,8 @@
                     <p>
                         Choose among various styles including Ballet, Jazz, Tap, Hip Hop, Acro, Tumbling, Musical Theater, and Contemporary. We offer all these styles and dance classes in Antioch CA.
                     </p>
-                    <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink shadow text-center text-uppercase">REGISTER NOW</div></a>
+                    <a class="mx-2" href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink shadow text-center text-uppercase">REGISTER NOW</div></a>
+                    <a class="mx-2" href="/classes"><div class="btn btn-lg btn-green shadow text-center text-uppercase">See Our Classes</div></a>
                 </div>
             </div>
             <div class="col-sm">
@@ -46,7 +47,7 @@
                 </div>
                 <div class="col-sm">
                     <h2 class="text-center font-weight-bold">We Are So Happy To Provide A Healthy Environment & Quality Dance Lessons In Antioch CA And The Surrounding Area. Become A Part Of Our Family Today!</h2>
-                    <div class="d-flex justify-content-center">
+                    <div class="d-flex justify-content-center align-items-center my-4">
                         <a class="mx-2" href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink shadow text-center text-uppercase">REGISTER NOW</div></a>
                         <a class="mx-2" href="/"><div class="btn btn-lg btn-aqua shadow text-center text-uppercase">Learn More</div></a>
                     </div>
