@@ -94,6 +94,10 @@ Route::get('/competition-hub', function () {
     return view('/competition-hub');
 });
 
+Route::get('/dance-classes-in-antioch-ca', function () {
+    return view('/dance-classes-in-antioch-ca');
+});
+
 Route::resource('texts', 'TextController');
 
 Auth::routes();

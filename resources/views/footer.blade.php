@@ -110,6 +110,8 @@
                 <a href="/dance-classes-in-stockton-ca"><small class="text-muted">Dance Classes in Stockton CA</small></a>
                 <span class="text-muted">&middot;</span>
                 <a href="/dance-studios-in-stockton-ca"><small class="text-muted">Dance Studios in Stockton CA</small></a>
+                <span class="text-muted">&middot;</span>
+                <a href="/dance-classes-in-antioch-ca"><small class="text-muted">Dance Classes in Antioch CA</small></a>
             </p>
         </div>
     </div>
