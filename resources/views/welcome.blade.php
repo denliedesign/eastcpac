@@ -181,12 +181,13 @@
 
     <div class="d-flex justify-content-center my-4">
         <div>
-            <h3 class="text-center">Nutcracker Tickets Now Available To Purchase!</h3>
-            <a href="https://us.patronbase.com/_ElCampanilTheatre/Productions/R011/Performances" target="_blank" class="mx-1 d-flex justify-content-center" style="text-decoration: none;">
-                <div class="btn btn-aqua btn-lg text-center text-uppercase shadow">
-                    Buy Tickets Now!
-                </div>
-            </a>
+            <img src="/images/best-of-22.jpg" alt="best of award" class="img-fluid" style="height: 250px; width: auto;">
+{{--            <h3 class="text-center">Nutcracker Tickets Now Available To Purchase!</h3>--}}
+{{--            <a href="https://us.patronbase.com/_ElCampanilTheatre/Productions/R011/Performances" target="_blank" class="mx-1 d-flex justify-content-center" style="text-decoration: none;">--}}
+{{--                <div class="btn btn-aqua btn-lg text-center text-uppercase shadow">--}}
+{{--                    Buy Tickets Now!--}}
+{{--                </div>--}}
+{{--            </a>--}}
         </div>
     </div>
 
