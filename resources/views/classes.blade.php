@@ -22,7 +22,7 @@
 {{--        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-2.png" alt="summer part 1" class="img-fluid mt-3 rounded shadow"></a>--}}
 {{--        <a href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><img src="/images/summer-3.png" alt="summer part 1" class="img-fluid mt-3 rounded shadow"></a>--}}
         <h2 class="text-center mt-5 font-weight-bold">Our Dance Classes For Kids | Brentwood, CA</h2>
-        <p class="text-center text-muted" style="font-size: 0.9em;">Kids Dance Classes in Stockton CA and Antioch CA</p>
+        <p class="text-center text-muted" style="font-size: 0.9em;">& Kids Dance Classes in Antioch CA</p>
 {{--        <div class="class-desc mb-5">--}}
 {{--            <img src="/images/class-1.png" alt="class logo" class="img-fluid" style="max-width: 225px; height: auto;">--}}
 {{--            <p>--}}
@@ -31,6 +31,10 @@
 {{--                <br>Program cost $300 per month--}}
 {{--            </p>--}}
 {{--        </div>--}}
+
+        <h2 class="text-center mt-3 font-weight-bold">Camps & 6-Week Sessions</h2>
+        @include('class-studiosuite')
+        <h2 class="text-center mt-3 font-weight-bold">Class Descriptions</h2>
         @include('class-descriptions')
         <h2 class="text-center mt-3 font-weight-bold">Tuition</h2>
         <p>

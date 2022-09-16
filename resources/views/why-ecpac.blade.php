@@ -18,7 +18,7 @@
                 <div class="col-1 number-green">1</div>
                 <div class="col-10 d-flex align-items-center">
                     <p class="lead mb-0">
-                        We are the only dance studio in Brentwood, Stockton, and other surrounding areas to have earned a More Than Just Great Dancing affiliation!
+                        We are the only dance studio in Brentwood, Antioch, and other surrounding areas to have earned a More Than Just Great Dancing affiliation!
                     </p>
                 </div>
             </div>
@@ -89,6 +89,6 @@
         </div>
     </div>
 
-    <p class="my-5 text-center">Choose ECPAC for dance classes in Stockton CA, Brentwood CA and other surrounding areas!</p>
+    <p class="my-5 text-center">Choose ECPAC for dance classes in Antioch CA, Brentwood CA and other surrounding areas!</p>
 
 @endsection
