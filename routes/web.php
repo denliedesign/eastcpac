@@ -78,13 +78,13 @@ Route::get('brentwood-kids-dance', function () {
     return view('brentwood-kids-dance');
 });
 
-Route::get('dance-classes-in-stockton-ca', function () {
-    return view('dance-classes-in-stockton-ca');
-});
-
-Route::get('dance-studios-in-stockton-ca', function () {
-    return view('dance-studios-in-stockton-ca');
-});
+//Route::get('dance-classes-in-stockton-ca', function () {
+//    return view('dance-classes-in-stockton-ca');
+//});
+//
+//Route::get('dance-studios-in-stockton-ca', function () {
+//    return view('dance-studios-in-stockton-ca');
+//});
 
 Route::get('/recital-hub', function () {
     return view('/recital-hub');
@@ -96,6 +96,10 @@ Route::get('/competition-hub', function () {
 
 Route::get('/dance-classes-in-antioch-ca', function () {
     return view('/dance-classes-in-antioch-ca');
+});
+
+Route::get('/dance-discovery-bay', function () {
+    return view('/dance-discovery-bay');
 });
 
 Route::resource('texts', 'TextController');
