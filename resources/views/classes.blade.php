@@ -32,9 +32,9 @@
 {{--            </p>--}}
 {{--        </div>--}}
 
-        <h2 class="text-center mt-3 font-weight-bold">Camps & 6-Week Sessions</h2>
-        @include('class-studiosuite')
-        <h2 class="text-center mt-3 font-weight-bold">Class Descriptions</h2>
+{{--        <h2 class="text-center mt-3 font-weight-bold">Camps & 6-Week Sessions</h2>--}}
+{{--        @include('class-studiosuite')--}}
+{{--        <h2 class="text-center mt-3 font-weight-bold">Class Descriptions</h2>--}}
         @include('class-descriptions')
         <h2 class="text-center mt-3 font-weight-bold">Tuition</h2>
         <p>

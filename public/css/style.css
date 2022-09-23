@@ -618,3 +618,10 @@
     color: gray;
     opacity: 50%;
 }
+
+#twenty-two-one-day img,
+#twenty-two-six-week img,
+#twenty-two-magical img,
+#twenty-two-weeklong img {
+    transform: scale(0.9);
+}

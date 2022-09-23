@@ -71,7 +71,7 @@
                         </a>
                     </div>
                     <div id="box-two" class="px-1">
-                        <a href="/camps-and-events#one-day-camps">
+                        <a href="/camps-and-events#twenty-two-one-day">
                             <div class="flip-card-inner">
                                 <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">
                                     <div>
@@ -82,7 +82,7 @@
                         </a>
                     </div>
                     <div id="box-three" class="px-1">
-                        <a href="/camps-and-events#six-week-sessions">
+                        <a href="/camps-and-events#twenty-two-six-week">
                             <div class="flip-card-inner">
                                 <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">
                                     <div>
@@ -93,11 +93,11 @@
                         </a>
                     </div>
                     <div id="box-four" class="px-1">
-                        <a href="/camps-and-events#summer-specials">
+                        <a href="/camps-and-events#twenty-two-weeklong">
                             <div class="flip-card-inner">
                                 <div class="box-four flip-card-front d-flex align-items-center justify-content-center text-center">
                                     <div>
-                                        <p>Summer Specials</p>
+                                        <p>Weeklong Camps</p>
                                     </div>
                                 </div>
                             </div>
