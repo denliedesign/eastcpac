@@ -10,7 +10,7 @@
 
     <div class="container my-5">
         <h2 class="text-center mt-3 mb-0 font-weight-bold">Brentwood<br>Kids Dance Camps & Events</h2>
-        <p class="my-0 py-0 text-center"><small>Dance Camps & Events For Kids In Brentwood</small></p>
+        <p class="my-0 py-0 text-center"><small>Brentwood Dance Camps & Events For Kids</small></p>
         <hr>
 
         <div id="twenty-two-magical" class="my-5">

@@ -144,7 +144,7 @@
 
         </section>
 
-        <p class="mt-5 text-center">Our Instructors teach dance classes for kids in Antioch CA, Brentwood CA, and other surrounding areas!</p>
+        <p class="mt-5 text-center">Our Instructors teach kids dance classes in Antioch CA, dance classes in Brentwood CA, dance classes in Discovery Bay, dance classes in Oakley, and other surrounding areas!</p>
 
     </div>
 

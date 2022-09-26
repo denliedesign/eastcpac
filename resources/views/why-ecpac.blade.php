@@ -89,6 +89,6 @@
         </div>
     </div>
 
-    <p class="my-5 text-center">Choose ECPAC for dance classes in Antioch CA, Brentwood CA and other surrounding areas!</p>
+    <p class="my-5 text-center">Choose ECPAC for dance classes in Antioch CA, dance classes in Brentwood CA, dance classes in Discovery Bay, dance classes in Oakley, and other surrounding areas!</p>
 
 @endsection
