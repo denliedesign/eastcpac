@@ -185,9 +185,12 @@
         </div>
         <div class="d-flex justify-content-center">
             <div>
+                <div class="d-flex justify-content-center">
+                    <img src="/images/ballet-company-of-east-county-logo.png" alt="" class="img-fluid" style="max-width: 500px; width: 100%;">
+                </div>
                 <h3 class="text-center">Nutcracker Tickets Now Available To Purchase!</h3>
                 <a href="https://26348.recitalticketing.com/r/events/" target="_blank" class="mx-1 d-flex justify-content-center" style="text-decoration: none;">
-                    <div class="btn btn-aqua btn-lg text-center text-uppercase shadow">
+                    <div class="btn btn-pink btn-lg text-center text-uppercase shadow">
                         Buy Tickets Now!
                     </div>
                 </a>
@@ -195,7 +198,16 @@
         </div>
     </div>
 
-    <div class="my-5 text-white d-none d-md-block">
+    <div class="bg-turq py-5">
+        <div class="container">
+            <h1 class="text-lowercase text-center">if you let me dance...</h1>
+            <div class="d-flex justify-content-center">
+                <video poster="/images/if-you-let-me-dance-poster.jpg" src="/images/if-you-let-me-dance-ecpac.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+            </div>
+        </div>
+    </div>
+
+    <div class="mb-5 text-white d-none d-md-block">
         <div class="row m-0 c-0">
             <div class="col-6 bg-light-gray pl-5 py-2">
                 <div class="container">
@@ -232,7 +244,7 @@
         </div>
     </div>
 
-    <div class="my-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white">
+    <div class="mb-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white">
         <h2 class="text-uppercase">ecpac is a safer studio&trade;</h2>
         <p>ECPAC focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring
             students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices,
@@ -537,7 +549,7 @@
         <div class="container">
 {{--            <h2 class="my-5 font-weight-bold text-center text-uppercase">Dance Blog & Newsletter</h2>--}}
 
-            <div class="row row-cols-1 row-cols-md-2 my-5">
+            <div class="row row-cols-1 row-cols-md-2 mt-5 mb-2">
                     <div class="blog-card col">
                         <a class="blog-link-img" href="https://missninak.com" target="_blank"><img src="/images/miss-nina-blog.jpg" alt="" class="img-fluid mb-4"></a>
                         <div class="row">
@@ -559,6 +571,14 @@
                 </div>
             </div>
 
+        </div>
+    </div>
+
+    <div class="bg-turq">
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <img src="/images/logo-child-development.png" alt="" class="img-fluid" style="max-height: 250px; filter: brightness(0) invert(1);">
+            </div>
         </div>
     </div>
 
