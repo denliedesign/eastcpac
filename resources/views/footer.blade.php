@@ -114,6 +114,8 @@
                 <a href="/dance-classes-in-antioch-ca"><small class="text-muted">Dance Classes in Antioch CA</small></a>
                 <span class="text-muted">&middot;</span>
                 <a href="/dance-discovery-bay"><small class="text-muted">Dance Discovery Bay</small></a>
+                <span class="text-muted">&middot;</span>
+                <a href="/dance-oakley"><small class="text-muted">Dance Oakley</small></a>
             </p>
         </div>
     </div>

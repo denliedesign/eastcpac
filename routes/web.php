@@ -102,6 +102,10 @@ Route::get('/dance-discovery-bay', function () {
     return view('/dance-discovery-bay');
 });
 
+Route::get('/dance-oakley', function () {
+    return view('/dance-oakley');
+});
+
 Route::resource('texts', 'TextController');
 
 Auth::routes();

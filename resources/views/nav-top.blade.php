@@ -15,6 +15,9 @@
         <a class="nav-link" href="https://www.facebook.com/eastcountypac" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
     </li>
     <li class="nav-item mt-1">
+        <a href="https://www.instagram.com/eastcountypac/" class="nav-link" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+    </li>
+    <li class="nav-item mt-1">
         <a class="nav-link" href="https://twitter.com/#!/eastcountypac" target="_blank"><ion-icon name="logo-twitter"></ion-icon></a>
     </li>
     <li class="nav-item mt-1">
