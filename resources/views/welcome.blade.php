@@ -60,7 +60,7 @@
             <div id="colored-boxes" class="d-flex justify-content-center">
                 <div class="row row-cols-2 row-cols-sm-2 row-cols-md-5 row-cols-lg-5">
                     <div id="box-one" class="px-1">
-                        <a href="https://east-county-performing-arts-center.studiosuite.io/s/trial-classes" target="_blank">
+                        <a href="https://east-county-performing-arts-center.studiosuite.io/s/202223-season" target="_blank">
                             <div class="flip-card-inner">
                                 <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
                                     <div>
