@@ -15,22 +15,20 @@
             </div>
 
             @can('update', \App\Term::class)
-
                 <a href="/terms/create">New Term</a>
                 <br><br>
+            @endcan
 
                 @foreach($terms as $term)
                         {!! $term->policyContent !!}
-                    <form action="/terms/{{ $term->id }}" method="POST">
-                        @method('DELETE')
-                        @csrf
-                        <button class="btn btn-danger ml-4" type="submit">Delete</button>
-                    </form>
-
+                    @can('update', \App\Term::class)
+                        <form action="/terms/{{ $term->id }}" method="POST">
+                            @method('DELETE')
+                            @csrf
+                            <button class="btn btn-danger ml-4" type="submit">Delete</button>
+                        </form>
+                    @endcan
                 @endforeach
-
-            @endcan
-
         </div>
     </div>
 
