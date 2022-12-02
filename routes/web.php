@@ -78,6 +78,10 @@ Route::get('brentwood-kids-dance', function () {
     return view('brentwood-kids-dance');
 });
 
+//Route::get('privacy-policy', function () {
+//    return view('privacy-policy');
+//});
+
 //Route::get('dance-classes-in-stockton-ca', function () {
 //    return view('dance-classes-in-stockton-ca');
 //});
@@ -115,6 +119,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('updates', 'UpdateController');
 Route::resource('posts', 'PostController');
 Route::resource('hubs', 'HubController');
+Route::resource('terms', 'TermController');
 
 Route::get('/hubs/{hub:hubSlug}', function (Hub $hub) {
     return view('hubs.show', compact('hub'));
