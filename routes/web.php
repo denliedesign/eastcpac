@@ -109,6 +109,13 @@ Route::get('/dance-discovery-bay', function () {
 Route::get('/dance-oakley', function () {
     return view('/dance-oakley');
 });
+Route::get('/dance-lessons-oakley', function () {
+    return view('/dance-lessons-oakley');
+});
+Route::get('/dance-studios-discovery-bay', function () {
+    return view('/dance-studios-discovery-bay');
+});
+
 
 Route::resource('texts', 'TextController');
 

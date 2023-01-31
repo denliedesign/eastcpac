@@ -116,6 +116,10 @@
                 <a href="/dance-discovery-bay"><small class="text-muted">Dance Discovery Bay</small></a>
                 <span class="text-muted">&middot;</span>
                 <a href="/dance-oakley"><small class="text-muted">Dance Oakley</small></a>
+                <span class="text-muted">&middot;</span>
+                <a href="/dance-lessons-oakley"><small class="text-muted">Dance Lessons Oakley</small></a>
+                <span class="text-muted">&middot;</span>
+                <a href="/dance-studios-discovery-bay"><small class="text-muted">Dance Studios Discovery Bay</small></a>
             </p>
         </div>
     </div>

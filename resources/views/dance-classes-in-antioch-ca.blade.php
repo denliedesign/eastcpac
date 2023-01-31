@@ -17,6 +17,8 @@
             <div class="col-sm d-flex align-items-center">
                 <div class="text-center">
                     <h2 class="text-center mt-3 font-weight-bold">If You Are Looking For Dance Studios In Antioch CA - Choose ECPAC</h2>
+                    <h5 class="p-2 rounded text-center" style="background: yellow;"><em>East County Performing Arts Center located in Brentwood, CA welcomes families from all surrounding areas including Antioch</em></h5>
+
                     <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">From your child's first steps to their high school graduation, we foster a positive and encouraging dance space. Our students are more than just great dancers!</p>
                     <p>
                         Choose among various styles including Ballet, Jazz, Tap, Hip Hop, Acro, Tumbling, Musical Theater, and Contemporary. We offer all these styles and dance classes in Antioch CA.
@@ -47,6 +49,8 @@
                 </div>
                 <div class="col-sm">
                     <h2 class="text-center font-weight-bold">We Are So Happy To Provide A Healthy Environment & Quality Dance Lessons In Antioch CA And The Surrounding Area. Become A Part Of Our Family Today!</h2>
+                    <h5 class="p-2 rounded text-center" style="background: yellow;"><em>East County Performing Arts Center located in Brentwood, CA welcomes families from all surrounding areas including Antioch</em></h5>
+
                     <div class="d-flex justify-content-center align-items-center my-4">
                         <a class="mx-2" href="https://app.thestudiodirector.com/brentwooddance/portal.sd?page=Enroll&meth=search&SEASON=&CLASS_TYPE=&DAYS=127&START_TIME=&MINAGE=&INSTRUCTOR=&AVAIL=all&SORT1=3&SORT2=4&SORT3=1" target="_blank"><div class="btn btn-lg btn-pink shadow text-center text-uppercase">REGISTER NOW</div></a>
                         <a class="mx-2" href="/"><div class="btn btn-lg btn-aqua shadow text-center text-uppercase">Learn More</div></a>

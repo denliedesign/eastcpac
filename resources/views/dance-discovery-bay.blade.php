@@ -24,6 +24,8 @@
             <div class="col-sm d-flex align-items-center">
                 <div class="text-center">
                     <h2 class="text-center mt-3 font-weight-bold">Dance Classes in Discovery Bay at East County Performing Arts Center</h2>
+                    <h5 class="p-2 rounded text-center" style="background: yellow;"><em>East County Performing Arts Center located in Brentwood, CA welcomes families from all surrounding areas including Discovery Bay</em></h5>
+
                     <p class="lead font-weight-bold mb-0" style="color: #12a9b0;">Looking for Dance Studios in Discovery Bay, Brentwood, & surrounding areas? Dance With Us!</p>
                     <p>
                         Whether it's Ballet, Jazz, Tap, Hip Hop, Acrobatics, Tumbling, Musical Theater, or Contemporary, we have a dance class for you! If you are looking for kids dance classes in Discovery Bay, ECPAC has options for ages 2-18 years old.
@@ -53,6 +55,8 @@
                 </div>
                 <div class="col-sm">
                     <h2 class="text-center font-weight-bold">Programs We Offer For Dance Studios in Discovery Bay & Surrounding Areas</h2>
+                    <h5 class="p-2 rounded text-center" style="background: yellow;"><em>East County Performing Arts Center located in Brentwood, CA welcomes families from all surrounding areas including Discovery Bay</em></h5>
+
                     <ul style="line-height: 2;">
                         <li><a href="/classes">Dance Classes In Discovery Bay</a></li>
                         <li><a href="/teams">Performing Company</a></li>
