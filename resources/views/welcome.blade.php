@@ -60,7 +60,7 @@
             <div id="colored-boxes" class="d-flex justify-content-center">
                 <div class="row row-cols-2 row-cols-sm-2 row-cols-md-5 row-cols-lg-5">
                     <div id="box-one" class="px-1">
-                        <a href="https://east-county-performing-arts-center.studiosuite.io/s/202223-season" target="_blank">
+                        <a href="https://eastcountyperformingartscenter.classkid.com" target="_blank">
                             <div class="flip-card-inner">
                                 <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
                                     <div>
@@ -164,9 +164,9 @@
             </div>
         </div>
 
-        <div class="d-flex justify-content-center mt-4">
-            <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>
-        </div>
+{{--        <div class="d-flex justify-content-center mt-4">--}}
+{{--            <a href="https://east-county-performing-arts-center.studiosuite.io/m/dance-starter-kit" target="_blank"><div class="btn btn-outline-primary">Download Our Studio Info Kit</div></a>--}}
+{{--        </div>--}}
 
         <h5 class="text-center mt-3 mb-3">A dance class for every interest and learning preference!
             <br>In Brentwood, kids dance is our specialty!</h5>
