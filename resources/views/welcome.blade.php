@@ -180,8 +180,22 @@
     </div>
 
     <div class="my-4">
-        <div class="d-flex justify-content-center">
-            <img src="/images/best-of-22.jpg" alt="best of award" class="img-fluid" style="height: 250px; width: auto;">
+        <div class="row">
+            <div class="col-sm">
+                <div class="d-flex justify-content-center">
+                    <img src="/images/best-of-22.jpg" alt="best of award" class="img-fluid" style="height: 250px; width: auto;">
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="d-flex justify-content-center">
+                    <img src="/images/guarantee.png" alt="money back guarantee" class="img-fluid" style="height: 250px; width: auto;">
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="d-flex justify-content-center">
+                    <img src="/images/medal-22.png" alt="best of brentwood award" class="img-fluid" style="height: 250px; width: auto; transform: scale(0.85);">
+                </div>
+            </div>
         </div>
         <div class="d-flex justify-content-center">
             <div>
