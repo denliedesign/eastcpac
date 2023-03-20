@@ -119,6 +119,8 @@
                 <span class="text-muted">&middot;</span>
                 <a href="/dance-lessons-oakley"><small class="text-muted">Dance Lessons Oakley</small></a>
                 <span class="text-muted">&middot;</span>
+                <a href="/dance-studios-oakley-ca"><small class="text-muted">Dance Studios Oakley</small></a>
+                <span class="text-muted">&middot;</span>
                 <a href="/dance-studios-discovery-bay"><small class="text-muted">Dance Studios Discovery Bay</small></a>
             </p>
         </div>
