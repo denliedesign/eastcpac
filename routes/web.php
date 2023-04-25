@@ -118,6 +118,9 @@ Route::get('/dance-studios-oakley-ca', function () {
 Route::get('/dance-studios-discovery-bay', function () {
     return view('/dance-studios-discovery-bay');
 });
+Route::get('/oakley-dance', function () {
+    return view('/oakley-dance');
+});
 
 
 Route::resource('texts', 'TextController');

@@ -122,6 +122,8 @@
                 <a href="/dance-studios-oakley-ca"><small class="text-muted">Dance Studios Oakley</small></a>
                 <span class="text-muted">&middot;</span>
                 <a href="/dance-studios-discovery-bay"><small class="text-muted">Dance Studios Discovery Bay</small></a>
+                <span class="text-muted">&middot;</span>
+                <a href="/oakley-dance"><small class="text-muted">Oakley Dance</small></a>
             </p>
         </div>
     </div>
